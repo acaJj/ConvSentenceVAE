@@ -1,0 +1,1 @@
+"the company ' s earnings increased n n to $ n million from $ n million or $ n a share a year earlier <eos>\n"

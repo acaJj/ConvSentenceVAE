@@ -1,0 +1,1455 @@
+en-D69	300 heavy horse ?	We have no chance .	1.5
+en-D76	When 'd you last see him ?	When was the last time you saw him ?	4.0
+en-D119	Anyone who can verify that ?	Can anyone corroborate that ?	3.5
+en-D168	I 'm not promising anything .	No promises , okay ?	3.0
+en-D242	Nothing 's changed .	Things ain 't no different .	3.5
+en-D249	Anybody hearing me ?	Can anyone hear me ?	4.0
+en-D250	I 'm not familiar with who that is .	I don 't know who that is .	4.0
+en-D319	I acknowledge that Shinra owes the planet a lot .	Not interested .	1.0
+en-D342	I need you to trust me .	Please , you gotta trust me on this .	3.5
+en-D423	We hope you enjoy the flight .	We hope you have a pleasant flight .	4.0
+en-D427	That 's why you rollin ' with the P.L.C. .	That 's why you with the P.L.C. , dawg .	3.0
+en-D491	Did you see him ?	You get a look at ' im ?	3.5
+en-D501	Do you need any help ?	Uh ... you need help ?	3.5
+en-D503	Do as I say .	Jon , do what I tell you .	3.0
+en-D515	Let me see your belly .	Show me your stomach .	4.0
+en-D577	I thought you would .	I was sure there would be .	2.0
+en-D597	Guard against an evil eye .	Protect from an evil eye .	4.0
+en-D689	I 'm joking .	Kidding , you know .	3.5
+en-D754	Let me out of here .	Someone let me out .	3.5
+en-D790	That was enough .	We had adultery .	1.0
+en-D807	Ain 't no next time .	There will not be another time .	3.5
+en-D828	Are you guys having issues ?	You two are having problems ?	3.5
+en-D846	They 're not going to listen to us .	They won 't listen .	3.5
+en-D850	I 'm a fast learner .	I 'm a quick study ,	4.0
+en-D953	Maybe it 'll be better this way .	Maybe you 're better off .	3.0
+en-D957	But , everybody 's a liar .	Everyone tells lies .	4.0
+en-D972	There 's an issue .	We got a problem .	3.5
+en-D1011	Oh , what year is this ?	What year is it , anyway ?	4.0
+en-D1025	I don 't get it .	Why isn 't your brother here ?	1.0
+en-D1082	Get your goddamn hands up .	Hands in the air .	3.5
+en-D1087	Do not shoot .	Hold your fire	4.0
+en-D1163	She 's doing the best she can .	She does her very best .	4.0
+en-D1169	Are you in want of cash ?	Do you need money ?	3.0
+en-D1178	We 're having a baby .	We Must have children .	2.5
+en-D1181	I was startin ' to get worried .	Well , I was getting worried .	3.5
+en-D1184	Just let me give it a try .	Why don 't you let me try ?	2.5
+en-D1230	He 's in one of his moods .	He is in a bad mood .	3.5
+en-D1276	Come sit over here .	Um , here , come here , sit .	3.5
+en-D1278	I 'll Be a daddy .	I 'm gonna be a father .	3.5
+en-D1279	Well , you didn 't tell me .	You never told me .	3.5
+en-D1317	Nothing is impossible .	There 's nothing that can 't be done .	4.0
+en-D1368	Hold it right there .	Remain still .	4.0
+en-D1380	I 'm gonna miss you guys .	I shall miss all of you .	3.5
+en-D1388	You did all you could do .	You did everything you could .	4.0
+en-D1394	I 'll give myself up .	I 'm gonna turn myself in .	3.5
+en-D1396	Help is coming , kid .	Help is on the way .	3.5
+en-D1398	I fell asleep .	SOMEBODY TOOK THE KEY OUT OF MY POCKET .	1.0
+en-D1409	Are you fucking kidding me ?	You 're bullshitting me ?	3.5
+en-D1417	Titus Andromedon .	♪ Gonna be famous ♪	1.0
+en-D1472	Can I just say one thing ?	Can I say something here ?	4.0
+en-D1474	It 's just the beginning .	This is just a start .	3.5
+en-D1511	What are we supposed to do ?	What do we do here ?	3.0
+en-D1529	And that 's just the start .	Oh , this is just the beginning .	3.5
+en-D1543	I 'll take care of them .	I will handle them .	4.0
+en-D1544	I was a bad person .	TO BE BARGAINING FOR YOUR SILENCE .	1.0
+en-D1566	I 'll fuck you , Van Damme .	You 've gone too far .	1.5
+en-D1615	How much time do I have ?	Well , how long have I got ?	3.5
+en-D1625	Doesn 't make any sense .	This doesn 't add up .	4.0
+en-D1627	I mean , do you understand what I 'm talking about ?	You know what I 'm saying ?	3.0
+en-D1629	Can you tell me the situation ?	What 's the position ?	2.0
+en-D1642	I 've lost everything .	I lost all of it .	3.5
+en-D1651	I have my reasons .	I remove the muzzle .	1.0
+en-D1677	It wasn 't like that .	That 's not what it was like .	4.0
+en-D1691	Did you get a line on him ?	You know where he is ?	2.5
+en-D1712	I mean , anytime .	Whenever you want .	3.0
+en-D1731	I 'm not hearing any of this .	I can 't hear a thing .	3.0
+en-D1735	When do we leave ?	When we gonna go ?	3.0
+en-D1742	She doesn 't know anything .	She knows nothing , I tell you .	3.0
+en-D1764	Have you spoken to him ?	You guys talked ?	3.0
+en-D1771	Okay , you don 't get it , man .	You don 't understand .	3.0
+en-D1775	Go on , move it .	Why 'd you stop ?	2.0
+en-D1787	Change of plan .	We 're changing the deal .	2.5
+en-D1796	How long is it gonna be ?	How long will that be ?	4.0
+en-D1797	Not till you kill me .	Over my dead body .	4.0
+en-D1812	Hello there , beautiful .	Well , hello , gorgeous .	4.0
+en-D1814	This is for my husband .	You will die .	1.0
+en-D1888	Now , who was next ?	Who 's next in line ?	3.5
+en-D1895	Do we have an understanding ?	We understand each other , then ?	3.5
+en-D1916	My lord , we 're doomed .	This is the end .	3.0
+en-D1930	He 's telling the fucking truth .	He speaks the truth .	3.0
+en-D1936	Rise and shine .	Wakee , wakee .	3.5
+en-D1964	I 'm getting sick now .	I think I 'm going to be sick .	3.0
+en-D1968	He started it .	WHAT ABOUT MY BARROW ?	1.0
+en-D1987	Do as he says .	Just do whatever he tells you to do .	4.0
+en-D1999	Are you angry ?	You pissed off ?	4.0
+en-D2001	So now what ?	What happens next , Detective ?	3.0
+en-D2022	Oh Michael , you 're scaring me .	You frighten me .	3.0
+en-D2027	The clock is ticking .	We 're on a clock .	3.0
+en-D2068	Did you sleep well ?	Have a nice sleep ?	3.5
+en-D2072	WHO 'S GONNA DO IT ?	You got a better idea ?	1.0
+en-D2083	I 'm jokin ' .	Just kidding .	4.0
+en-D2100	Damn it all .	Unbelievable .	1.5
+en-D2102	If it comes to that	If that 's what it takes .	4.0
+en-D2150	Do you think I 'm a fool ?	You think I 'm stupid , huh ?	4.0
+en-D2165	Give him a 3 % hypertonic solution .	Stop looking at me .	1.0
+en-D2185	They 're gonna be fine .	Yeah , they 're okay .	3.0
+en-D2200	OPERA music playing	Why are we here ?	1.0
+en-D2213	I just really wanna go home .	I just want to go home .	3.5
+en-D2227	What 's the rush ?	Why are you in a hurry ?	4.0
+en-D2253	I Iove Lew Ayres ' looks .	I just love him .	2.0
+en-D2262	I 'm not as certain .	Not so sure about that .	4.0
+en-D2273	Need a little help , there ?	You need some help ?	3.5
+en-D2302	All right , look me in the eye .	Look into my eyes .	3.5
+en-D2349	Give it some thought .	Think about it , guys .	3.0
+en-D2354	Are you going to say .	You 're one to talk .	2.0
+en-D2356	Don 't give me that look .	Don 't look at me like that , Horacio .	3.0
+en-D2358	It 's basic statistics .	You are unbelievable .	1.0
+en-D2376	Not all of it .	Well ... not everything .	3.5
+en-D2379	And how is that any of your business ?	What 's that to you ?	3.5
+en-D2391	It 's not over yet .	This isn 't finished yet .	4.0
+en-D2408	I know nothing else .	That 's all I really know .	4.0
+en-D2412	Sure you 're doing ok ?	You sure you 're okay ?	4.0
+en-D2424	Go fuck yourself .	~ Oh , fuck off .	4.0
+en-D2451	Please , sir , hear me .	Please listen to me .	3.5
+en-D2466	It was , like , unbelievable .	That was incredible .	3.5
+en-D2482	Who can I say is asking ?	Who wants to know ?	3.0
+en-D2484	I 'm not familiar with you .	I don 't know you .	4.0
+en-D2528	I can get you $ 10,000 right now ... maybe more .	Where are you taking me ?	1.0
+en-D2543	And all the other ones ?	What about the others ?	3.5
+en-D2567	Oh , we talked about this .	We 've been through this .	4.0
+en-D2570	Right or wrong , we had a deal .	We had an agreement .	3.0
+en-D2584	For what purpose ?	With what object ?	1.5
+en-D2598	Tommy , where are you ?	Who are you talking to ?	1.0
+en-D2601	I had no other choice .	I was out of options .	4.0
+en-D2608	Are you in need of anything ?	Do you need something ?	4.0
+en-D2654	That 's exactly what I said .	That is the thing I said .	4.0
+en-D2670	I gotta hit the head .	I need to use bathroom .	3.5
+en-D2676	And I know it 's not gonna give us anything quickly , do a full genealogy study .	Does that hurt ?	1.0
+en-D2693	Get ahold of yourself , man .	Get it together .	3.0
+en-D2717	Why did you not tell me ?	Why haven 't you said anything ?	3.5
+en-D2718	If I could just have your attention .	Your attention , please .	3.5
+en-D2721	Do you have a minute ?	Look , Marissa I experimented when I was your age .	1.0
+en-D2722	I don 't doubt that .	Oh , I 'm sure they do .	3.0
+en-D2724	Some other kid had to die so i could live .	Yo , Justin .	1.0
+en-D2733	Apparently not .	Oh , clearly I don 't .	3.0
+en-D2743	I 've gotta go .	It 's killing time .	1.0
+en-D2745	Get your hands off .	Keep off of ' em .	3.0
+en-D2748	Still unidentified at this point .	We don 't know yet .	3.0
+en-D2750	Don 't scream .	Would you keep it down ?	3.0
+en-D2751	It 's gonna be okay .	~ It 's all going to be fine .	4.0
+en-D2760	No , thanks .	Would you like a refill ?	1.0
+en-D2785	I 'm not gonna tell anybody .	I promise I won 't tell .	3.5
+en-D2789	I 'II come too .	_ I 'm going with you .	3.0
+en-D2820	I 'm not worried about Lowry either .	Yeah , me neither .	1.5
+en-D2849	Get dressed and come .	This is very important .	1.0
+en-D2867	Anybody out there ?	Does anyone hear me ?	3.5
+en-D2935	We 'll meet you there .	You go , we will go to coffee house .	1.5
+en-D2948	You wanna talk about it ?	You want to discuss it ?	4.0
+en-D2953	You can barely walk .	You let me help you .	1.5
+en-D2960	Do I know you from somewhere ?	Don 't I know you somehow ?	4.0
+en-D2998	Look , give me a call .	You need to call me .	3.0
+en-D3044	Please , take care .	Watch your back .	3.0
+en-D3053	No , all good .	No , everything 's fine .	4.0
+en-D3078	What 's the matter with you ?	What 's up with you , huh ?	3.5
+en-D3083	Congratulations .	Hooray for you .	3.0
+en-D3107	A massive one .	Did you know ?	1.0
+en-D3125	That 's not happening .	That isn 't gonna happen .	4.0
+en-D3135	Oh , it 's not enough .	That 's not good enough .	3.5
+en-D3140	Everybody knows that .	The whole world knows .	4.0
+en-D3144	Hey , thanks for all your help .	Thank you for helping .	3.5
+en-D3145	Time is running out , Doctor .	We 're out of time .	3.0
+en-D3148	Depends , I guess .	That all depends .	3.0
+en-D3158	But you mustn 't press him .	Don 't you worry .	1.0
+en-D3160	I gotta take this .	I have to answer that phone .	3.0
+en-D3169	But you know somethin ' ?	You know what , though ?	3.5
+en-D3184	I 'm not scared .	I won 't pee to the garden .	1.0
+en-D3208	Deal with that .	Get over it .	4.0
+en-D3209	Not quite the same .	Well , not precisely .	2.0
+en-D3227	Yes , I suppose so .	yeah , i guess it does , doesn 't it ?	3.0
+en-D3239	Actually , hum .	As a matter of fact .	3.0
+en-D3244	Hey , can we talk ?	Might we have a word ?	4.0
+en-D3246	... before it colla	Say something .	1.0
+en-D3254	Not that I know of .	Not the last time I checked .	3.0
+en-D3266	I didn 't say anything .	I haven 't been saying anything .	3.5
+en-D3268	Uh , I didn 't say that .	Yo , I never said that .	4.0
+en-D3274	Agent Drake ?	Drop the weapon .	1.0
+en-D3303	Get in the car .	It 's cold out here .	1.0
+en-D3304	You 're a lucky man .	You 're very fortunate .	3.0
+en-D3312	Drop your weapons .	Put down your guns right now .	4.0
+en-D3317	I didn 't think so .	That 's what I tought .	3.0
+en-D3367	Something I can do for you ?	What can I do for you , Lieutenant ?	3.0
+en-D3370	She told me that it did .	That 's what she said .	2.5
+en-D3386	We 're in a meeting .	When did it happen ?	1.0
+en-D3391	Wait right here .	What are you — ?	1.0
+en-D3448	Uh , no , not yet .	_ No , I haven 't paid for them yet .	2.0
+en-D3449	Huh , what 's the matter with you ?	What 's wrong with you ?	4.0
+en-D3452	Do you know what that is ?	You know what a fobbit is ?	3.0
+en-D3458	On the count of three .	On three ... one , two , three .	2.5
+en-D3469	Coming through .	Sorry , excuse me .	3.0
+en-D3472	I need some help .	Need a little help here .	4.0
+en-D3533	Thank you all for coming in .	Thanks for coming , fellas .	3.0
+en-D3535	I have had enough .	Well , I 'm done .	3.0
+en-D3536	Have a nice evening .	You have a good night , ma 'am .	2.5
+en-D3573	Do you know what it is ?	You know what a eunuch is ?	2.5
+en-D3578	I 'll buy you some .	Next round 's on me .	3.0
+en-D3581	He never , never .	Not in a million years .	2.5
+en-D3589	And what about her ?	What 's wrong with her ?	3.0
+en-D3599	I cannot believe it .	You don 't have a phone ?	1.0
+en-D3620	I see the cocaine .	Yeah , I see it .	2.5
+en-D3633	What do you want to know ?	What kind of information are you looking for ?	3.5
+en-D3665	Why 'd you got to go and do that ?	Why would you say that ?	3.0
+en-D3668	What is your quest ?	What you looking for ?	3.0
+en-D3678	It 's not about that .	This is not why .	4.0
+en-D3701	Don 't talk like that , Saul .	Now don 't say that .	3.0
+en-D3713	Oh , that 's horrible .	Well , that 's awful .	4.0
+en-D3729	Where are you going ?	YOUNG DAVID :	1.0
+en-D3754	Come on , you guys .	Yeah , let 's go , guys .	3.5
+en-D3758	Are you leaving ?	You outta here ?	3.0
+en-D3801	Can I ... ask you somethin ' ?	Can I ask you a question ?	4.0
+en-D3845	Hey , thanks , everybody , for coming .	Thank you all for coming .	4.0
+en-D3863	Have a really good time .	Have fun with that .	3.5
+en-D3867	I mean something different .	That 's not what I mean .	3.5
+en-D3881	Keep your hands up .	Raise those hands .	3.0
+en-D3882	I mean , think about it .	Now you think about that .	4.0
+en-D3900	I 'm tired , okay ?	Then get some sleep .	1.5
+en-D3903	I think know that guy .	Yeah , I know him .	3.5
+en-D3906	I think you 're right .	Yeah , I 'm thinking you might be right .	4.0
+en-D3911	Didn 't think so .	I thought that might be the case	2.5
+en-D3913	I 'm warning you .	You stop it .	2.5
+en-D3914	Oh , for God 's sake .	oh , for the love of god .	4.0
+en-D3939	Okay , that 's not necessary .	You don 't have to .	3.5
+en-D3964	Have a seat .	Sit her down .	2.0
+en-D3972	I can 't tell you .	I really cannot say .	3.5
+en-D3973	Aww , honey .	Oh , sweetie .	4.0
+en-D3975	I 'll be back in a few minutes .	I 'm gonna come right back .	4.0
+en-D3987	Just a moment , please .	Would you hold on , please ?	4.0
+en-D3991	Hey , need some help ?	You need a hand ?	4.0
+en-D3994	What does that matter ?	What the hell has that got to do with anything ?	3.5
+en-D3997	Ain 't the point .	That 's not what this is about .	3.5
+en-D4001	Are you following ?	Do you understand ?	3.5
+en-D4029	What 'd you say ?	You 're saying what ?	4.0
+en-D4052	It 's of no consequence .	It doesn 't matter .	4.0
+en-D4063	What the fuck is wrong with you , Reggie ?	What the hell 's the matter with you ?	3.0
+en-D4079	HE 'S GOT THE MONEY .	It wasn 't me .	1.0
+en-D4093	Just hang in there .	~ Stick with it .	2.5
+en-D4110	I 'll take that .	THAT NO ATTEMPT WOULD BE MADE TO REMOVE THE MONEY .	1.0
+en-D4122	Take good care , sweetheart .	You take care of yourself .	3.0
+en-D4124	Just a second .	O ... one moment .	4.0
+en-D4130	Here , I 'll show you .	I 'm gonna show you now .	4.0
+en-D4131	Let me straighten you out , mister .	Let me tell you something .	3.0
+en-D4146	I didn 't say ... that .	That 's not what I said .	4.0
+en-D4157	That 's about it , laddie .	Yeah , pretty much .	1.5
+en-D4166	Did you see that ?	Were you watching ?	3.0
+en-D4176	They 're beautiful .	They look so good .	4.0
+en-D4180	That is true , yes .	Yes , that 's correct .	4.0
+en-D4190	I just said that .	Oh , that 's what I said .	4.0
+en-D4192	I didn 't mean it like that , man .	That 's not what I meant .	3.5
+en-D4201	What 's your point ?	Where Are you getting ?	4.0
+en-D4205	It 's a long story .	Long , difficult story .	3.5
+en-D4228	What made you come back ?	and what brought you back ?	4.0
+en-D4258	Something tripped the alarm .	The alarm went off .	3.5
+en-D4284	No Yugoslavia anymore .	That doesn 't exist anymore .	2.0
+en-D4295	Light him down .	Show him a light .	2.5
+en-D4342	I almost started crying .	They almost made me cry .	3.0
+en-D4346	How can I possible give you the sack ?	How could I sack you ?	2.5
+en-D4352	He 's too good-looking ?	It 's too beautiful .	2.0
+en-D4354	He 's out for payback .	He wants revenge .	4.0
+en-D4368	Got a new assignment .	Well , I have a new mission .	4.0
+en-D4369	Good work , Sergeant .	Nice job , Sarge .	3.5
+en-D4374	Fortunately , I got a plan .	Oh , luckily , I have a plan .	4.0
+en-D4375	Even more than usual .	Like , even bigger than normal .	3.0
+en-D4390	Cardiac arrest ?	Flatline throughout ?	2.5
+en-D4425	It does seem that way .	It looks like it .	4.0
+en-D4428	Where did you get that ?	Where is that from ?	3.5
+en-D4441	You 're freaking me out .	You frightened me .	2.5
+en-D4450	Feel like coming with me ?	Will you come with me ?	3.5
+en-D4465	Previously on " Heroes Reborn " .	Previously on " The Last Man on Earth " .	2.0
+en-D4470	All is well with you .	You 're gonna be okay .	2.5
+en-D4471	Do you want to help me ?	Will you join me ?	2.5
+en-D4479	Can I buy you a drink ?	Hey , you want a drink or something ?	3.5
+en-D4529	It 's too dangerous .	There 's too much at risk .	4.0
+en-D4538	You 'll be working over here .	You 're gonna work here .	4.0
+en-D4554	We 've got a new kind of game .	We have a new game .	4.0
+en-D4585	Sir , we 've intercepted a call .	We intercepted a phone transmission .	4.0
+en-D4587	She 's just soaked to the bone .	She 's soaked through and through .	4.0
+en-D4607	Milos , come on .	Oh , man , you 're out of your mind .	2.0
+en-D4628	I think I 've got a temperature .	I think I have a fever .	4.0
+en-D4643	I 'm giving your life purpose .	I give your life meaning .	4.0
+en-D4672	He 's going to blow it .	He 's gonna fuck this up .	4.0
+en-D4680	He didn 't steal it .	It 's not stolen .	2.5
+en-D4685	Get me Scotland Yard quickly .	Henry 's coming down .	1.0
+en-D4696	Does POTUS know ?	Is the president aware of this ?	3.0
+en-D4709	But , for now it 's just us .	Nobody knows where we are .	2.0
+en-D4754	And it 's , um , awful .	It 's horrible .	3.0
+en-D4776	I 'm afraid so .	Yes , unfortunately , I have .	1.5
+en-D4814	Like , there has to be some sort of explanation .	There 's got to be some explanation here .	4.0
+en-D4819	It will be tough .	That might be hard .	3.0
+en-D4843	Everything is about money .	It 's always about the money .	3.5
+en-D4853	And I 'm not arguing .	And it 's non-negotiable .	3.0
+en-D4866	Baby , what is going on with you ?	What 's come over you ?	3.5
+en-D4940	No , I don 't think you understand	No , you don 't understand .	3.5
+en-D4958	Well , I got a couple of options .	Well , yeah , I got a few choices .	4.0
+en-D4977	No one should have to die alone .	Nobody should die alone .	4.0
+en-D4996	It 's a temple of some kind .	It 's some sort of temple .	4.0
+en-D5013	I got nothing to prove .	Its car is OK ... is necessary to change the color .	1.0
+en-D5021	Good evening , Vice Minister .	Vice Minister , good evening .	4.0
+en-D5037	Don 't be so contrary .	More of your contrariness .	3.0
+en-D5043	Council members , take your seats , please .	Will council members please take their seats ?	4.0
+en-D5070	Watch your mouth .	You mind your manners , mister .	3.0
+en-D5072	Tell me , Titus .	Where are they ?	1.0
+en-D5083	Are we finished ?	Will that be all ?	4.0
+en-D5087	You 've always gotta flush .	You gotta flush the toilet .	3.5
+en-D5094	What 's up , babe , PMS ?	You got your period ?	3.0
+en-D5128	Nobody 's ever seen him since .	Nobody sees him anymore .	4.0
+en-D5138	Listen up ... 1 , 2 , 3,	Where do you scurry to , silly ?	1.0
+en-D5143	I 've seen the names .	So how do I know you actually have the flash drive ?	1.0
+en-D5153	I 'm not dealing dope any more .	I don 't be hustlin ' .	2.5
+en-D5169	I apologize for being in this disgusting condition .	Ma 'am , I apologize for my disgusting condition .	3.0
+en-D5177	Hades might have inspired this shindig but let 's get one thing straight .	Which bring 's us back to Daddy .	1.0
+en-D5246	Still painting ?	Yes , every Sunday .	1.0
+en-D5247	Something specific you 're looking for ?	You looking for anything in particular .	4.0
+en-D5251	She blindsided me .	She took me by surprise .	4.0
+en-D5252	Okay , I 'll play .	Okay , let me have it .	2.5
+en-D5268	I 'm not calling about that .	That 's not why I 'm calling .	4.0
+en-D5286	You sound a little different .	Your voice sounds kind of weird .	3.0
+en-D5287	You 're an intelligent man .	You are a clever man .	4.0
+en-D5306	John , you really need to prepare .	You 've got to prepare yourself .	3.0
+en-D5311	It 's not about the job .	This is not about work .	4.0
+en-D5314	I said hold your fire .	I told you not to fire .	4.0
+en-D5320	I " m going to go call the doctor .	I 'll get the doctor up here .	3.5
+en-D5330	He was ... about to kill you , Lex .	He was gonna kill you .	3.0
+en-D5331	He 'll never agree .	There 's no way he 'll go for this .	4.0
+en-D5351	I don 't mind .	I take no offense .	4.0
+en-D5360	I 'm out of here .	I 'm splittin ' .	3.0
+en-D5361	Oh , absolutely , yes .	Yeah , definitely .	4.0
+en-D5371	WE SUPPOSED TO MAKE NOISES WITH THESE THINGS ?	Who is she ?	1.0
+en-D5398	Sometimes it 's enough .	Sometimes that 's all you need .	4.0
+en-D5402	Our wristbands were stolen .	They stole our wristbands .	4.0
+en-D5425	I 'm getting my son back .	I 'm gonna get back my son .	4.0
+en-D5440	Henri is his name .	His name is Henri .	4.0
+en-D5474	It 's getting late .	John , it 's late .	3.0
+en-D5476	And that 's not going to happen .	That ain 't gonna happen .	3.5
+en-D5478	You " re gonna be fine .	You 'll be all right .	4.0
+en-D5486	They just cram more neurological function into a shorter period of time .	Uh , not exactly .	1.0
+en-D5488	You 're scaring the kids .	You are terrifying the children .	4.0
+en-D5520	And you 're not curious ?	Well , aren 't you curious ?	3.5
+en-D5528	MR. ROBINSON AND MR. HARVEY .	What should we do ?	1.0
+en-D5546	Don 't call yourself fat .	Don 't talk like that .	2.0
+en-D5559	None of your business .	That 's not your goddamn business .	3.0
+en-D5569	Here , pass it along .	~ Pass them down .	3.0
+en-D5571	As I expected .	Okay , so you 're good .	1.0
+en-D5600	... ­ and it was fantastic	That was amazing .	3.0
+en-D5610	We have to be strong .	We must be steadfast .	4.0
+en-D5614	They 're bluffing .	They don 't have any evidence .	2.5
+en-D5618	Six weeks from now .	That 's in six more weeks .	4.0
+en-D5626	My Mom and Daddy died .	My parents passed away .	4.0
+en-D5659	Are you sure that you wanna know ?	Are you sure you really want to know that ?	4.0
+en-D5668	Back off , back off .	Stand clear .	3.0
+en-D5674	You speak good English .	Your English is good .	4.0
+en-D5700	He got three children .	He has 3 kids .	4.0
+en-D5716	Because it smells great .	Man , it smells really nice in there .	2.0
+en-D5721	Isn 't that right ?	Well , hasn 't it ?	2.0
+en-D5727	And it worked .	That was badass , Fee .	1.0
+en-D5732	I 'm a loser .	That 's why .	1.0
+en-D5770	Don 't forget the rules .	Just remember the rules .	3.5
+en-D5806	Ray Pratt , where is he ?	Where 's Ray Pratt ?	4.0
+en-D5832	General Kutuzov is busy .	The Commander-in-Chief is engaged .	2.5
+en-D5875	Not very wise .	That 's not too smart .	3.5
+en-D5883	It was a little girl .	That baby was a girl .	3.0
+en-D5884	It 's rock solid .	She lost too much blood .	1.0
+en-D5893	I 'm the reason that they died .	They died because of me .	4.0
+en-D5912	Didn 't think I would ever see you again .	I didn 't expect to see you again .	4.0
+en-D5925	A kill is a kill .	Murder is murder .	2.5
+en-D5964	That 's all you got ?	You mean that 's it ?	2.5
+en-D5969	How 's it coming along ?	How are things going ?	3.5
+en-D5974	I 'm a winner .	I can do it .	1.0
+en-D5977	Get them up there .	Put your hands in the air .	2.5
+en-D5990	That 's his decision to make .	That is for him to decide .	4.0
+en-D5993	Somebody warned them .	They were tipped off .	4.0
+en-D5996	Plan 's a little flawed , but nobody 's perfect .	What 's my plan ?	1.5
+en-D6063	No one is the wiser .	Nobody will know anything .	4.0
+en-D6065	I wish I could have met him .	Wish I 'd had a chance to meet him .	4.0
+en-D6070	However , it is not going to be opened till the evening .	You 're on punishment .	1.0
+en-D6095	Lieutenant .	Niedermayer :	1.0
+en-D6112	I do not really know .	I don 't know exactly .	4.0
+en-D6113	That 's a great idea .	That seems like a good idea .	3.5
+en-D6126	Excuse me , please ?	Will you excuse me ?	3.5
+en-D6133	PROFESSOR MARCUS	We gotta move .	1.0
+en-D6135	Back , back .	That 's what I 'm talkin ' about .	1.0
+en-D6169	I been calling you .	Where you been ?	2.0
+en-D6172	Everything 's gonna be just fine here .	It 's gonna be all right .	3.5
+en-D6186	Nick , why were you running ?	Why you running , anyway ?	2.5
+en-D6187	Just to keep--Where 's Tom ?	No , i called tom .	1.0
+en-D6199	I Iove talking to you .	I was just going upstairs .	1.0
+en-D6200	How 's everybody else doin ' ?	How are the others ?	3.5
+en-D6207	Four minutes , people .	That 's four minutes .	3.5
+en-D6215	All we wanna do is talk to the guy .	Look , we just wanna talk to him .	4.0
+en-D6216	Alastair came back angry .	Did he do something to you ?	1.0
+en-D6241	What , again ?	♪ bah-bah-bah-bah ♪	1.0
+en-D6272	Hello , my little one .	Hey , hi there , little fella .	3.0
+en-D6309	Why are all those people headed back ?	Why are they going back ?	3.5
+en-D6334	The JANET airlines .	This is what I was telling you about .	1.0
+en-D6351	Oh , I am so sorry , Krystal .	Oh , Krystal , I 'm so sorry .	4.0
+en-D6375	I was so certain .	You were sure because you did see a body .	1.5
+en-D6389	I thought you would have come home sooner .	I was expecting you earlier .	3.0
+en-D6393	Is everything going to be okay ?	Will everything work out ?	4.0
+en-D6407	I just need a little help .	I just need somebody to give me a hand .	4.0
+en-D6408	I heard the fucking news .	I heard the news today .	3.5
+en-D6410	I have a permit .	Uh , I 'm validated .	3.5
+en-D6422	Hold on , Victor .	Victor , wait up .	4.0
+en-D6440	Hannah , there 's no trap .	This isn 't a trap .	3.0
+en-D6444	GOD , WHAT IS WITH YOU TODAY ?	What 's going on with you today ?	3.5
+en-D6476	Does it taste better ?	Is a cigarette better after sex or .	2.0
+en-D6484	Cheer up , E. It 's a celebration .	Where 's Vince ?	1.0
+en-D6492	Being the boss is great .	It 's great being the boss .	4.0
+en-D6493	At least give me a hint .	You do not really know .	1.0
+en-D6515	Get your hands up .	Hands in the sky .	4.0
+en-D6539	I need to take my mind off things .	I need to think about something else .	3.5
+en-D6541	I 'm gonna need the keys to your car .	I need your car keys .	4.0
+en-D6546	Have you talked to Mom ?	You been talking to Mom ?	4.0
+en-D6558	All those against .	Those in opposition ?	3.5
+en-D6575	Supper 's not going to keep .	The food 's gonna get cold .	3.0
+en-D6600	I 'm waiting for the right time .	Wait for me a moment .	1.5
+en-D6610	I did not get any details .	I don 't really have all the details .	2.5
+en-D6615	He is playing with Hüseyin .	What 'd you buy ?	1.0
+en-D6626	Chaos takes over .	There will be chaos .	3.0
+en-D6627	But you just got here .	You are only just arrived .	4.0
+en-D6643	You 've always been there for me .	You always looked out for me .	4.0
+en-D6646	This isn 't who we are .	We 're not like that	3.5
+en-D6648	So much for gratitude .	Well , Mayor , there 's gratitude for you .	2.5
+en-D6661	Hello , Miranda .	Mitch Kretzer .	1.0
+en-D6663	Did you not sleep ?	You haven 't slept ?	4.0
+en-D6698	No one is to be fired .	Nobody 's getting fired .	4.0
+en-D6706	I 've never been on a plane .	I never been up in an airplane before .	4.0
+en-D6707	It was a monster who took them all .	There was a monster here that took everyone .	4.0
+en-D6720	Hey , Caroline .	We should really get going to that barbecue .	1.0
+en-D6749	The guys in the masks .	The people in masks .	3.5
+en-D6756	I do not intend to die .	I don 't plan on dying .	4.0
+en-D6775	Oh ... hon ?	Sweetheart ?	3.5
+en-D6788	An era has passed since we met last , and yet , you come alone ?	Where is your friend , the elusive moon , why do you come alone ?	2.0
+en-D6799	We are not to stay here .	You know what , we 're not staying .	3.0
+en-D6810	Arrow , arrow	This is falcon	1.0
+en-D6823	That 's kidnapping .	This is an abduction .	3.5
+en-D6837	I 'll do anything	Uh , I don 't have a house to go to .	1.0
+en-D6849	Aren 't you gonna have any ?	You 're not having one ?	4.0
+en-D6851	He deserves to die .	There is no one more deserving than Eastin .	2.0
+en-D6853	Here he is .	I AM SO SORRY YOU 'VE BEEN DISTURBED .	1.0
+en-D6862	You ever , uh , do any time ?	You ever serve time ?	3.5
+en-D6864	No one has been killed .	nobody is dead .	3.0
+en-D6872	Are you taking it ?	You gonna take it ?	4.0
+en-D6873	And don 't disturb me	Don 't bother me , okay ?	3.5
+en-D6887	There 's ... there 's kids .	There are children here .	3.0
+en-D6889	Say hello to him for me .	Tell him , " hi , " for me .	4.0
+en-D6905	I have to get there .	l must get down there .	3.5
+en-D6922	I could say the same about you .	Right back at you .	3.0
+en-D6924	What 's on your mind ?	What you thinking of ?	4.0
+en-D6930	I 'm not from around here .	I am not from these parts .	4.0
+en-D6933	Grant him peace .	Peace be upon him .	4.0
+en-D6960	Holy mother of Jesus .	Oh , sweet Mother of Christ .	4.0
+en-D6966	Oh , she won 't be long .	She 'll be home in a minute .	3.0
+en-D6976	DAVID GROANING	Morning , David .	2.0
+en-D6979	Y-you 're- - you 're grounded .	You are grounded , my man .	3.0
+en-D7020	You 're never gonna change .	You just never change .	4.0
+en-D7029	What makes you say that ?	Why do you feel that ?	3.0
+en-D7032	And we 've been able to identify the victim .	That 's Louie Becker .	1.0
+en-D7041	Thank you for coming so soon .	Thanks for getting here so quickly .	4.0
+en-D7099	People are going to die .	Real people will die .	3.0
+en-D7101	Oh , oh , hang on there , son .	Wait a minute , kid .	3.0
+en-D7121	Well , you can 't just leave me like this .	You can 't leave me this way .	4.0
+en-D7130	Previously on " The Flash " .	Previously on Sleepy Hollow .	2.0
+en-D7156	How 's that ?	Like this or something ?	3.0
+en-D7231	What happened to the extra help ?	Where are the reinforcements ?	3.5
+en-D7257	Hey , you are so lucky .	You 're a very lucky girl .	3.0
+en-D7269	A little something .	Uh , one small thing .	3.5
+en-D7304	Brother to brother .	yours in life and deaih ... I swear to love and serve Guinevere , my true and rightful queen .	1.0
+en-D7325	What is all this nonsense ?	What kind of nonsense is this ?	3.5
+en-D7336	Thank you so much , fella .	Thanks a lot , pal .	4.0
+en-D7342	Serious , you need therapy .	You have to go get a counselor .	3.0
+en-D7367	It 's fucking dope .	Where are the TV cameras ?	1.0
+en-D7368	It 's a fairly routine procedure , I 'm sure you can handle it .	It 's routine work .	2.5
+en-D7370	It 'd feel like a trap to me .	Um , I feel like this is a trap .	3.0
+en-D7379	I 'LL SEE YOU IN A COUPLE OF HOURS .	Okay , see you in a couple of hours .	4.0
+en-D7380	I 'll see you at 3 : 00 .	I 'll see you gentlemen at 3 : 00 .	3.0
+en-D7382	I hesitated .	I was doubtful .	4.0
+en-D7384	I don 't know what that feels like .	Wouldn 't know the feeling .	3.5
+en-D7385	I 'd hate to see that .	That would be horrible .	3.5
+en-D7386	I appreciate the loan .	Well , thanks a lot , love .	2.0
+en-D7395	He knows what I 'm talking about .	No , no , no , no , he knows what I mean .	3.0
+en-D7471	I 'll go prepare .	I 'm gonna scrub in .	2.5
+en-D7477	I am supporting you .	I give you support .	4.0
+en-D7478	I am no different .	I haven 't changed .	4.0
+en-D7484	He did it for me .	So he did because of me .	3.5
+en-D7501	You should have something to eat .	You should probably eat something .	4.0
+en-D7504	What are you looking for , dad ?	What do you want , Dad ?	3.0
+en-D7508	Something happened back there .	Something went down .	3.5
+en-D7526	Except me , of course .	Well , present company excluded .	3.0
+en-D7536	Previously on Penny Dreadful .	Previously on Ray Donovan .	2.0
+en-D7553	This is a murder enquiry .	Well , this is a homicide investigation .	3.5
+en-D7556	I 'm not faking it .	This isn 't pretend .	4.0
+en-D7564	I thought you might .	Yeah , didn 't think so .	2.0
+en-D7565	Come , Kirk , one will wedge it before the old man .	So what are you gonna do ?	1.0
+en-D7578	An acquaintance .	Some guy I know .	3.0
+en-D7583	The train cannot be held any longer .	We can 't wait much longer .	3.0
+en-D7584	Sorry I have the gun ?	You think I 'm afraid ?	1.0
+en-D7599	But she didn 't listen .	But she wouldn 't hear it .	4.0
+en-D7600	And in return ?	What do you give us ?	3.0
+en-D7610	What 's with all the fucking questions ?	Why all these questions ?	3.5
+en-D7623	What 'll you do with them ?	What are you going to do to them ?	3.5
+en-D7658	How is she ?	walkers snarling	1.0
+en-D7666	What are you , crazy ?	Willi , at the students uprising at the German Museum recently , it nearly happened .	1.0
+en-D7675	She 's not stupid .	This is not a dumb girl .	3.5
+en-D7687	He 's not ... my father .	He ain 't my dad .	3.5
+en-D7693	Divorce papers , remember ?	I am not jealous .	1.0
+en-D7694	Cheeta , come on .	Come on , Cheeta .	4.0
+en-D7697	Here she comes .	She 's coming , okay ?	3.0
+en-D7709	Hold ... hold on .	Wait , wait .	4.0
+en-D7722	He 's in a fury .	The guy is furious .	4.0
+en-D7730	That 's my livelihood .	This is how I make my living , Pete .	3.0
+en-D7731	I 'll put some clothes on .	Let me just change .	3.0
+en-D7742	I have a few words I 'd like to say :	I just wanna say a few words .	4.0
+en-D7743	A good deed for Ma .	For Mom 's sake .	3.0
+en-D7759	Do not speak of her .	Don 't you talk about her .	4.0
+en-D7766	I 'm really just so sorry for your loss .	_ I extend my sympathy to y 'all .	3.0
+en-D7770	I guess we gotta pull out .	We 're retreating .	3.0
+en-D7772	Hey , I 've had worse .	I 've been through worse .	4.0
+en-D7787	You know a lot about hepatitis .	You know so much about all this stuff .	2.5
+en-D7800	I do not know its name .	They 're after a boy .	1.0
+en-D7803	You know that 's not going to happen .	You know that won 't happen .	4.0
+en-D7827	We 'll cover you up .	We 've got your back .	3.5
+en-D7849	However , everything got even worse .	My wife 's dead ,	1.0
+en-D7851	Hope everything 's all right .	I hope nothing 's wrong .	3.5
+en-D7884	We must all make sacrifices .	You 'll never need anyone else .	1.0
+en-D7898	Because we love each other .	They always promise they 're gonna get out of their marriage , but they never do .	1.0
+en-D7907	♪ You 've really made the grade ♪	♪ rose in your eyes ♪	1.0
+en-D7908	We 're not surrendering .	We are not giving up .	4.0
+en-D7912	And that 's not all .	He did more than that .	2.5
+en-D7928	Thank you for that , too .	Thanks for that as well .	4.0
+en-D7932	Okay , we were tricked , so .	They were playing us , Jake .	3.0
+en-D7938	It 's just rained .	Most of the blood has washed away .	2.0
+en-D7962	Everything 's all right , then .	Then we 're clean .	3.5
+en-D7964	Don 't on my account .	Well , don 't do me any favors , okay ?	1.5
+en-D7971	Call my lawyer .	He 'll tell you what to do .	1.5
+en-D7974	Are you on her side ?	You with her on this ?	4.0
+en-D7990	They 're not coming back .	They won 't be returning .	4.0
+en-D7997	Just don 't do it again .	You shouldn 't do that anymore .	3.0
+en-D8013	Were you a military man ?	You were in the army ?	3.5
+en-D8015	Two of them died .	We lost two .	3.5
+en-D8027	No one has to be the wiser .	You know , nobody has to know .	3.5
+en-D8031	Let 's be friends , man .	Now let 's just be friends .	3.5
+en-D8035	I was afraid you 'd say that .	Yeah , I was afraid you were going to say that .	4.0
+en-D8041	Is Mom around ?	Yes , it 's Rory .	1.0
+en-D8053	I don 't need ' em anymore .	Not gonna need them now .	3.0
+en-D8054	I don 't got no daddy , you dig ?	I have no father .	3.0
+en-D8064	Emily is her name .	Her name is Emily .	4.0
+en-D8070	Come on , it 's gonna be real fast .	We 'll be quick .	3.0
+en-D8115	I 'm trying to help him .	Tryin ' to look out for him .	4.0
+en-D8118	I 'm not big on guns .	I don 't like guns .	4.0
+en-D8127	Doesn 't make sense to me either .	I don 't understand it either .	4.0
+en-D8131	3 years ago . 3 years .	It was three years ago .	3.0
+en-D8142	Don 't you have some ?	You don 't have any ?	3.5
+en-D8153	Thank you , Phil .	Yes , I 'd love some .	2.0
+en-D8155	Leave a message , I 'll get back to you .	Leave me a message and I will call you back .	4.0
+en-D8172	I smelled something .	Wait a minute .	1.0
+en-D8184	It 's not what she wants .	She doesn 't want that .	4.0
+en-D8187	I don 't have a name .	I don 't know what 's happening to me , and I don 't know how else to tell you that .	1.0
+en-D8191	But- - that was risky .	That was dangerous .	4.0
+en-D8198	Nobody is allowed to visit her .	She can not have visitors .	4.0
+en-D8205	Okay , then just tell me this :	You 've had your chance .	1.0
+en-D8209	I 'm not changing my mind .	My mind will not change .	4.0
+en-D8226	I 've got some ideas .	I had a few ideas for that .	4.0
+en-D8237	Cancer of the pancreas .	Pancreatic cancer .	4.0
+en-D8255	I felt like being alone .	I wanted to be alone .	4.0
+en-D8260	God , it 's awful .	God , that is terrible .	4.0
+en-D8265	He 's stalling .	Playing for time .	2.5
+en-D8276	The virus ... where is it ?	Where 's the virus ?	4.0
+en-D8293	I knew I shouldn 't have .	I shouldna have done so .	3.0
+en-D8295	I 'd just like to sleep now .	I just want to get some sleep .	4.0
+en-D8297	I aimed at the lamp .	Put the gun on him .	1.0
+en-D8305	Because I want to play .	I want to hit the tables while they 're hot .	3.0
+en-D8307	You 're a quick study .	You 're really learning .	2.5
+en-D8311	There 's another person .	There is someone else .	4.0
+en-D8343	Do you wanna do that ?	You want to help us ?	2.5
+en-D8361	Donna , I can 't believe you smoke now .	I didn 't know you smoked .	2.5
+en-D8363	Damage report .	Maximum shields .	1.0
+en-D8383	Sure you 're up to it ?	You sure you can handle it ?	3.5
+en-D8389	I assure you , we have no interest in harming you .	We don 't mean you any harm .	3.5
+en-D8391	He 's not alone up there .	It is only a tchou-tchou .	1.0
+en-D8406	I 'll get my crap .	I 'll go and get my things .	3.5
+en-D8416	And nothing more ?	That 's it ?	4.0
+en-D8468	And God protect you .	The Lord bless you .	4.0
+en-D8473	I 'm gonna go and get the car .	Uh , I 'll go get the car .	3.5
+en-D8484	Hold this position .	Just stay here .	3.5
+en-D8546	I 'll just get a new start .	I 'm starting from scratch .	4.0
+en-D8553	He 's waiting for me .	I believe he 's expecting me .	3.0
+en-D8624	Everything will be fine .	We gonna be okay .	3.0
+en-D8632	I don 't see that we have much choice .	I guess we don 't have a choice .	4.0
+en-D8637	Came looking for you .	I came to find you .	3.5
+en-D8642	So what the hell should I do ?	What am I supposed to do ?	3.5
+en-D8657	Get to walking .	Stay in front of me .	2.5
+en-D8672	Do you bowl ?	You playing games ?	1.5
+en-D8679	God , what ain 't I tried .	I 've tried everything .	3.0
+en-D8680	Barry , we have talked about this .	Well , we 've been through this before .	3.0
+en-D8694	There is plenty to discuss .	We have much to discuss .	4.0
+en-D8697	She has Alzheimer 's .	This is George .	1.0
+en-D8700	Pastor , thank you .	Thank you , Pastor .	4.0
+en-D8706	I 've got a proposition for you , Mariner	I have a pitch for you .	3.0
+en-D8708	It 's like I 'm not heard .	Nobody listens to me .	4.0
+en-D8730	And I want a refund .	I want my money back .	4.0
+en-D8738	You all right , kiddo ?	You okay , son ?	4.0
+en-D8739	Remove the handcuffs .	Take off the cuffs .	4.0
+en-D8742	Oh , thank god .	Thank the Lord for that .	4.0
+en-D8748	I 've come a long way .	I came quite a distance .	4.0
+en-D8770	Oh , why do you do it ?	Why are you doing this ?	4.0
+en-D8773	I 'll take care of it .	l 'll attend to it .	3.5
+en-D8781	But heart 's not enough .	But that wouldn 't be enough .	3.0
+en-D8796	I want to talk to Ginger .	Put her on the phone .	3.0
+en-D8809	Oh , that 's the right spot .	You like it ?	1.5
+en-D8810	We have to focus .	We need to concentrate .	4.0
+en-D8829	I 'll have no hand in such a monstrous thing .	I don 't want nothing to do with this .	3.5
+en-D8844	Can we get on with this ?	Can we get started again ?	4.0
+en-D8852	I can learn .	So school me .	3.0
+en-D8854	Ace , why you stopped ?	Why`d you stop driving ?	3.0
+en-D8856	Are you - - are you okay ?	You all right ?	4.0
+en-D8859	You 've got to be kidding me .	You gotta be freaking kidding me .	3.5
+en-D8879	When I feel like it .	When the mood hits .	3.5
+en-D8881	We 're out of road .	We out of fucking road .	3.5
+en-D8885	We don 't have any other choice .	Well , unfortunately , the US embassy is all we have right now .	3.0
+en-D8886	We all die , Thom .	Yeah , well , we 're all dying .	3.0
+en-D8890	The dad ... person ?	Who 's the father ?	2.0
+en-D8896	Say it , name of God .	She won 't get far .	1.0
+en-D8908	Jacob , what the fuck ?	Youngblood .	1.0
+en-D8910	I 'VE WORKED ON SO MANY PLANS , AND THEY WERE ALL GOOD , BUT THIS WAS THE BEST .	It was a good plan .	3.0
+en-D8920	I haven 't seen him for three years .	Me and jimmy go way back .	1.5
+en-D8932	Have they found him ?	So did you find them ?	2.0
+en-D8940	Business first .	Payment up front .	2.5
+en-D8946	Are you all with me ?	Is everybody in ?	4.0
+en-D8950	All the exits are covered .	The area is surrounded .	3.0
+en-D8960	Until it 's over .	Up to the very end .	4.0
+en-D8961	Took some doing , mind you .	Well , it has not been easy .	3.5
+en-D8964	That does sound familiar .	That rings a bell .	4.0
+en-D8966	So what do you do today ?	What are you doing today ?	4.0
+en-D8973	Is this your answer ?	That 's your response ?	4.0
+en-D8984	How long are you going for ?	Will you be gone long ?	3.5
+en-D9001	And no one will know .	No one will ever know .	4.0
+en-D9017	Oh , and ... how great is this place ?	Oh , this place is great .	3.5
+en-D9032	He 's gonna come home .	Well , he 's coming home .	4.0
+en-D9057	Don 't you understand ?	Well , don 't you see , mate ?	3.0
+en-D9065	Tata , what 's wrong ?	What 's the matter ?	3.0
+en-D9123	If I don 't come up with some concrete evidence by then ... off to Seattle .	Twenty-four hours .	1.0
+en-D9134	Easy , easy .	Watch it now .	4.0
+en-D9155	You all right , brother ?	You-you okay , bro ?	3.5
+en-D9189	Listen , Jules .	Oh , my God , you were .	1.0
+en-D9199	And then what ?	What happens afterwards ?	4.0
+en-D9210	I was about to say that .	That 's just what I was gonna say .	4.0
+en-D9225	What 's the matter , Captain ?	What 's wrong , Captain ?	4.0
+en-D9227	Quit your squawking .	Stop complaining ' .	4.0
+en-D9246	It shouldn 't have happened .	This never had to happen .	4.0
+en-D9253	He was so beautiful .	He was so good-looking .	4.0
+en-D9290	Hey , look what you did .	Oh , now look what you went and did .	4.0
+en-D9308	That her idea or yours ?	Whose idea was it ?	3.0
+en-D9311	Let " s not get off track here .	Let 's not change the subject .	4.0
+en-D9312	How about a drink , Mister ?	You care for a drink ?	3.0
+en-D9329	I 'm so very cold .	Oh , I 'm so cold .	4.0
+en-D9331	I didn 't have a chance .	I thought you would 've accepted by now .	1.0
+en-D9334	Can anyone back you up on that ?	Can anyone confirm that ?	3.5
+en-D9338	Stop moving or I will shoot you .	Stop or I 'm gonna shoot .	4.0
+en-D9347	How do you feel about him ?	What do you think of him , anyway ?	4.0
+en-D9360	Glad to know you , Adolph Kline .	Very nice to meet you .	3.0
+en-D9361	Or a dream of a dream .	What 's this ?	1.0
+en-D9383	Down at LA County .	I 'm at the hospital .	1.0
+en-D9399	Hey , man , you okay ?	Yo , dude , you good ?	3.5
+en-D9411	Are you listening ?	Do you hear me , Detective ?	3.0
+en-D9427	They 've got it .	They know everything .	3.0
+en-D9431	Open your fuckin ' mouth .	Open your mouth , nigger .	3.5
+en-D9432	Now , where could he be ?	Wonder where he can be ?	4.0
+en-D9433	No , I don 't mean that .	No , that 's not what i mean .	4.0
+en-D9439	How long will you need ?	How much time you gonna need ?	3.5
+en-D9444	They took their time .	You took your sweet-ass time .	2.0
+en-D9450	Are you kiddin ' me ?	You 're fuckin ' with me , right ?	3.5
+en-D9458	You slept with her .	You were frakking her .	3.5
+en-D9467	Libby had her track me down .	Um , something 's happened .	1.0
+en-D9476	I know you have trouble with eye contact .	You wanna quit now ?	1.0
+en-D9477	I have to get a good night 's sleep .	Look , I need to sleep .	3.5
+en-D9482	I ain 't in one piece , though , Spence .	Oh , don 't feel like it .	1.0
+en-D9489	You 're making it up .	You made that fish up .	3.0
+en-D9493	Please ... you saw her .	She 's happy , okay ?	1.0
+en-D9496	Oh , we just started .	We 're only just at the beginning .	3.5
+en-D9501	In all honesty .	Well , to be perfectly frank .	4.0
+en-D9503	I 'm holding a firearm .	I got a gun .	3.5
+en-D9514	Afraid I can 't possibly accommodate you .	Mr. Chest Wound , I 'm afraid I can 't help you .	3.0
+en-D9515	A five , six , seven , eight .	And 5 , 6 , 7 , 8 .	4.0
+en-D9531	A little of both , I 'm afraid .	I mean , it 's a little bit of both .	3.5
+en-D9536	That is such a coincidence .	This is serendipitous .	3.5
+en-D9541	A lot safer that way .	Because it 's safer .	3.5
+en-D9545	I 'll be out in a second , guy .	I 'll be right there .	3.0
+en-D9550	What 's your name , son ?	What do they call you , boy ?	4.0
+en-D9559	A very rough patch .	Very difficult .	3.0
+en-D9563	At least that 's one theory .	That 's certainly one possibility .	3.5
+en-D9571	I 've never fired a gun in my life .	I can 't shoot a gun .	3.0
+en-D9579	Everything okay , sir ?	Is it all right , sir ?	4.0
+en-D9590	About two days , I guess .	Two days. I waited for the freighter .	2.0
+en-D9597	I think you 're gonna like it .	Yeah , I think you 'll dig it .	4.0
+en-D9601	Yeah , we 'll be okay .	Yeah , we can handle it .	3.5
+en-D9609	Can I get the check ?	The bill , please .	4.0
+en-D9610	Not gonna happen .	You don 't got it .	2.0
+en-D9618	They are loopholes .	What are you running from ?	1.0
+en-D9620	That 's exactly what I said to him .	That 's what I told him .	3.5
+en-D9622	So I guess you want to quit too , huh ?	The sixth grade .	1.0
+en-D9635	I had that one coming .	Well , I deserved it .	4.0
+en-D9650	Do you mind driving ?	You wanna drive , huh ?	3.5
+en-D9652	Could you leave your man outside , please ?	Hello , Ferdinand .	1.0
+en-D9666	You 're not a monster .	♪ Wait until my eyes part ♪	1.0
+en-D9668	Talking of which .	Yeah ... about that .	3.5
+en-D9726	Didn 't notice you there .	Karen , shit , I didn 't see you .	3.0
+en-D9735	DAVID AND JESSIE :	I love that one .	1.0
+en-D9737	They 're not answering my calls	They do not respond , Captain .	3.0
+en-D9740	Hey , it is a pleasure .	How do you do .	2.5
+en-D9743	That won 't be necessary .	There shall be no such need .	3.5
+en-D9752	Anybody follow you ?	Were you being followed ?	3.5
+en-D9755	Oh , like old times .	To what it was .	2.0
+en-D9765	You 're an idiot .	You stupid numskull .	3.5
+en-D9779	As is your privilege .	That 's your right .	3.5
+en-D9791	I 've already talked too much .	No , I 've said too much already .	3.5
+en-D9810	Do you want to give it another shot ?	You want to try again ?	4.0
+en-D9811	Continue to the next phase .	Proceed as planned .	3.5
+en-D9817	Is there a problem ?	There 's something wrong with it ?	3.5
+en-D9848	The morning found me miles away	With still a million things to say	1.0
+en-D9853	I wanna keep you safe .	I want to protect you .	4.0
+en-D9857	I am ... the Law .	The law 's who I am .	4.0
+en-D9866	You 're very generous .	You are most kind .	3.5
+en-D9870	What 's the rush , huh ?	_ What 's your hurry ?	3.5
+en-D9871	Meet me in two hours .	Not for two more hours .	2.0
+en-D9875	I need you to concentrate .	You gotta focus up .	3.5
+en-D9876	I am not giving up .	I don 't stop .	3.5
+en-D9879	Come on , guys , have a seat .	Please sit down .	3.5
+en-D9897	I 'll clean this up .	I 'll take care of this .	3.5
+en-D9916	It was my decision .	This was my call .	4.0
+en-D9930	And you are ?	You being ... ?	4.0
+en-D9940	It ... it wasn 't an accident .	Your son did it .	1.5
+en-D9948	I can 't stay long .	We won 't let her go .	1.0
+en-D9951	Don 't go over .	You must refrain .	3.0
+en-D9955	I hope he 's okay .	I hope nothing bad happened to him .	4.0
+en-D9970	You 're a scam artist .	You are an imposter .	4.0
+en-D9986	You 're not angry ?	You ain 't mad , are you ?	3.5
+en-D10005	I have to look for a need .	See a need , fill a need .	2.5
+en-D10019	Close all the doors .	Close the gates now .	3.0
+en-D10021	Cause it says it 's almost like 3 : 00 in the morning .	It 's three o 'clock in the morning .	3.0
+en-D10024	Are you afraid of him ?	You scared of this motherfucker ?	3.5
+en-D10025	And we call it	On this lovely	1.0
+en-D10049	It 's after visiting hours .	Visiting hours are over .	4.0
+en-D10065	Everybody okay here ?	Is everything okay out here ?	3.5
+en-D10086	I 'll think of a way .	Well , I 'll come up with something .	4.0
+en-D10093	Do you want me to get a doctor ?	Should I call a doctor ?	4.0
+en-D10096	Am I right sir ?	Is that correct ?	3.0
+en-D10099	Are you out of your mind ?	What are you , losing it ?	3.5
+en-D10111	So that 's something to look forward to .	Well , I am looking forward to that .	3.5
+en-D10113	I care about what happened to Paul , I feel completely responsible for it .	Well , and I feel responsible .	2.0
+en-D10129	I have to call my service .	I shall have to make a telephone call .	3.0
+en-D10130	If it were only that simple .	If only it were that easy .	4.0
+en-D10133	Have you gone completely mad ?	You gone fucking crazy ?	3.0
+en-D10138	Brooke , I am not judging you .	I don 't judge you for it .	3.0
+en-D10141	$ 3 million ?	Let 's see how valuable he thinks this is .	1.5
+en-D10164	Is this ringing any bells ?	Mean anything to you ?	4.0
+en-D10169	How 's it going , buddy ?	How you doin ' , pal ?	4.0
+en-D10175	Set me free .	You really wanted to stick it to Ilaria , didn 't you ?	1.0
+en-D10205	It 's simply incredible .	It 's unbelievable .	4.0
+en-D10218	It 's got to be some kind of mistake .	This has to be a mistake .	4.0
+en-D10226	That " s another ball game .	Well , that 's another story .	4.0
+en-D10233	I can 't do anything more now .	There 's nothing more I can do .	4.0
+en-D10254	I am happy for you .	In the city .	1.0
+en-D10291	And God knows I 've put you through so much .	I don 't deserve you .	2.0
+en-D10306	This we both know .	You know that and I know that .	4.0
+en-D10307	They like you .	You 've got them .	3.0
+en-D10311	No one will harm ye .	i promise , tess .	1.0
+en-D10316	I want you to choose .	You get to pick it out .	3.5
+en-D10319	I 'm not taking drugs .	I don 't get high .	3.0
+en-D10320	I 'll send it .	Sending it to you right now .	3.5
+en-D10326	Can you get an ID off his prints ?	We do not , lost to the ages .	1.0
+en-D10341	I 'm a private detective .	Private inquiry agent .	2.5
+en-D10344	He was trying to kill her .	It was self-defence .	1.5
+en-D10363	Okay , take off the hat .	Take your hat off .	4.0
+en-D10382	Gonna go get myself a drink .	I 'm gonna go get a drink .	4.0
+en-D10389	Because , honey , this Shug is feeling	You 've been on my mind	1.0
+en-D10405	I kinda need to get to work , you know .	Well , I got to get to work .	3.5
+en-D10411	Conference him in .	Patch him through on the audio .	2.5
+en-D10419	Just a few minutes ago .	When 'd he go ?	1.5
+en-D10430	I 'll be quiet .	I won 't speak again .	4.0
+en-D10439	She stays with us .	She will stay here .	3.5
+en-D10444	I mean , who goes first ?	Who 's gonna start ?	4.0
+en-D10448	Eyes on the road , champ .	Watch the road , watch the road .	3.0
+en-D10458	What on earth is that ?	What the hell is in that ?	3.5
+en-D10478	They always upset you .	Where 's Thorne ?	1.0
+en-D10481	I 'm behaving like myself .	Well , I 'm me .	3.0
+en-D10486	Jesus , Mary and Joseph .	Neos in Castor , Neos in topside ,	1.0
+en-D10493	That 's not even the right way .	Wrong direction .	3.0
+en-D10499	I 'm on mission .	I have a job to do , except now it 's different .	2.5
+en-D10501	How long does he have ?	How much time , Doctor ?	3.5
+en-D10510	And I love you for that .	That 's why I love you , girl .	3.0
+en-D10512	It 's nobody 's fault .	There is no fault to be had .	4.0
+en-D10516	What about everybody else ?	What about the rest of them ?	3.5
+en-D10531	For God 's sake , Preston , think like a winner .	Think positive , babe .	2.0
+en-D10569	How 's it going , boys ?	How we doin ' , guys ?	3.5
+en-D10570	He 's an absolute dream .	My God , he 's a dream .	4.0
+en-D10573	And everybody else ?	What about all the others ?	4.0
+en-D10575	I 've made sure of that .	I got that covered .	4.0
+en-D10583	Yeah , don 't remind me .	You don 't need to remind me .	3.5
+en-D10593	I 'd , uh , I 'd prefer not to , officers .	I 'd really rather not .	3.0
+en-D10612	As simple as that ?	Is it that simple ?	4.0
+en-D10620	It hasn 't changed .	Looks exactly the same .	3.5
+en-D10633	San Francisco .	The Bay area .	2.0
+en-D10640	Can I get your autograph ?	Would you mind just signing this autograph ?	3.5
+en-D10643	It tickles .	sophie : don 't .	1.0
+en-D10648	I 'll take the air .	I 'm going out for some air .	3.5
+en-D10652	That 's a great choice .	This is such a good choice .	4.0
+en-D10667	Are you watching me ?	Do you see me ?	3.5
+en-D10680	How can I help you , my dear ?	What can I do for you ?	3.0
+en-D10683	He approached me .	Well , he came to me .	4.0
+en-D10711	I did not speak to him .	I haven 't talked to him .	4.0
+en-D10716	Are you ... seeing what I 'm seeing ?	Do you see what I see ?	4.0
+en-D10721	Look , the cops are here .	Police is here ‎ .	3.5
+en-D10728	I didn 't give you enough credit .	I underestimated you .	4.0
+en-D10735	AII right , who 's next ?	Who 's going to call it ?	1.5
+en-D10745	He gives me the creeps .	Uh , he scares me .	4.0
+en-D10780	Now we get to go to a university and talk about it ?	That 's pretty cool .	1.0
+en-D10788	It 's faulty plumbing .	It 's snowing out there .	1.0
+en-D10810	Eh , life goes on .	The world spins on .	4.0
+en-D10815	Do you have any idea what you 've done ?	That was his " get out of jail free " card .	1.0
+en-D10817	Do not beat yourself up about that .	You 're a good cop .	1.5
+en-D10828	Ooh , that 's a great idea .	This is a very good idea .	4.0
+en-D10837	Roll call vote , Mr. Clerk .	The clerk will call the roll .	3.5
+en-D10855	Crash and burn .	What would I do without you ?	1.0
+en-D10865	They have to be stopped .	We need to stop them .	3.5
+en-D10877	I 'll go make some calls .	Listen , I 'll make a couple of calls .	3.5
+en-D10905	Thanks for the warning .	We appreciate the heads-up .	3.5
+en-D10909	Could you , uh .	Uh , if there 's any way , uh	3.0
+en-D10910	Best idea , sir .	That 's a good idea .	3.0
+en-D10921	Eternal purity	The goddess .	1.5
+en-D10922	The end of the world .	Ummm , end of days .	4.0
+en-D10930	We 're with the police department .	Yeah , we 're the police .	3.5
+en-D10935	He was in a car accident .	Up in Calgary at the stampede .	1.0
+en-D10951	Here 's a start .	IT 'S A GOOD START , GET EVERYTHING ROLLING , YOU KNOW ?	2.5
+en-D10954	Are you gonna fire me ?	What , am I being fired ?	3.5
+en-D10964	I gotta get her out .	I have to help him .	2.0
+en-D10982	I can see you from here .	I see you , you motherfuckers .	3.0
+en-D10987	You have the right to an attorney during your interrogation .	You have the right to retain counsel without delay .	3.0
+en-D11004	And most of all , I can protect you .	I can keep you safe .	3.0
+en-D11011	This is the mayor .	Winai speaking .	1.5
+en-D11013	It 's fucked up .	We 're going home .	1.0
+en-D11039	Ah , missed .	Negative impact .	3.0
+en-D11048	I will pray for you .	My prayers go with you .	4.0
+en-D11050	I 'm so glad to see you guys .	What a pleasure to see you .	4.0
+en-D11054	Do you want company ?	You want me just to go with you ?	3.0
+en-D11070	Can you take this job ?	You 're going to help me ?	1.5
+en-D11071	In a closet .	Where are you ?	1.5
+en-D11074	The times they are a-changin ' .	Times change , Auggie .	3.0
+en-D11080	That is the final straw .	This was the last time .	3.5
+en-D11085	He was on call last night .	Where is he ?	1.5
+en-D11088	It 's weird , right ?	That is strange , isn 't it ?	4.0
+en-D11112	This is nuts .	You can 't know that .	1.0
+en-D11142	I 'm a bit nervous , actually .	I mean , I 'm kind of nervous .	3.5
+en-D11143	I don 't play .	That 's not acting .	2.5
+en-D11155	Now that sounds like a proper story .	Sounds so exciting .	2.5
+en-D11157	Lex , is he gonna be all right ?	Will he get well ?	3.0
+en-D11160	I 'll go get the truck .	I 'm gonna go pull the van around .	2.5
+en-D11161	I 'll get my things .	Let me just get my stuff .	4.0
+en-D11171	We 're about to get started .	We 're going to start .	4.0
+en-D11177	Have a good night , you two .	Well , you have a wonderful night .	3.5
+en-D11182	You 're not scared ?	You don 't fear it ?	3.5
+en-D11209	You 're goddamn right it is .	You got that right .	3.0
+en-D11215	I don 't drive a car .	I don 't know how to drive .	3.5
+en-D11219	Oh , who told you that ?	Where 'd you hear that ?	4.0
+en-D11226	I shall go and see .	I suppose I 'll go look .	3.0
+en-D11241	Telephone call at the desk .	You got a phone call .	3.0
+en-D11242	She 's not here ?	Wait , she 's supposed to be with you .	2.5
+en-D11281	I tell you something else .	Oh , and one last thing .	3.0
+en-D11285	Have you ever read it ?	You read that one before ?	3.5
+en-D11306	What you need is sleep .	You need to get some sleep .	4.0
+en-D11307	Should I call the police ?	Want me to call the sheriff ?	3.5
+en-D11321	Another question , though .	Uh , we do have one more question .	3.0
+en-D11341	I 'll be waiting up for you .	I 'm gonna wait for you .	3.5
+en-D11342	God is merciful .	I know everything about your life .	1.0
+en-D11356	Gets pretty cold .	This is freezing .	3.0
+en-D11367	Which department ?	and point me out .	1.0
+en-D11379	There 's SOMETHING inside there .	There 's something in there .	4.0
+en-D11381	Real mature .	Very grown-up .	4.0
+en-D11389	I told you it wasn 't mine .	No , it 's not me ... mine .	3.0
+en-D11398	I 'll see you inside .	See you on the inside .	4.0
+en-D11400	You do not belong here .	You had no business there .	2.5
+en-D11406	Previously , on " Arrow " .	Previously on Continuum .	2.0
+en-D11416	Why did we stop doing that ?	You got married ?	1.0
+en-D11422	Make resound your call ... send your message	Some things never change .	1.0
+en-D11436	It 's not gonna work like that .	That is not the way this works .	3.5
+en-D11445	What 'd you do if I sock you in your face , homeboy ?	What are you going to do ?	2.0
+en-D11447	Let who catch us ?	What people ?	2.0
+en-D11453	It 's time now .	They 're moving .	1.0
+en-D11455	All to specter .	Pull up the mizzen sail .	1.0
+en-D11457	Can we have a check ?	I 'll be right out .	1.0
+en-D11458	Hey , there he is .	There 's him , right there .	4.0
+en-D11460	It has a ring to it .	Sounds good .	3.5
+en-D11464	That 's some high stakes .	There 's a lot at stake here .	3.5
+en-D11468	Play us something we know .	Please , daddy , please .	1.0
+en-D11474	I 've been chosen .	I happen to be selected .	3.5
+en-D11476	Is that a trick question ?	Well , is there some kind of trick answer ?	2.5
+en-D11482	God , you have got to loosen up .	You need to relax .	4.0
+en-D11483	Get me an R.A. unit now .	I need an ambulance right away .	4.0
+en-D11484	Excuse me , but .	I 'm sorry but this is .	2.5
+en-D11493	You didn 't have any choice .	You had no other choice .	4.0
+en-D11494	You almost gave me a heart attack .	You nearly gave me a freaking heart attack .	4.0
+en-D11507	Nah , it 's insane .	No , that 's crazy .	4.0
+en-D11521	Hope you have an appetite .	I hope you 're hungry .	4.0
+en-D11532	Come out with your hands up .	We have your plane surrounded .	1.5
+en-D11536	Are you volunteering ?	You 're voluntary ?	4.0
+en-D11544	What 'd you say to them ?	What in the hell did you tell them ?	3.0
+en-D11558	Continuing .	Do you stop or do you carry on ?	1.5
+en-D11586	I 'm Sharon but I 'm a different Sharon .	I know who I am .	1.5
+en-D11590	This is crazy .	We invented sitting like that .	1.0
+en-D11592	It 's demeaning , that 's all .	This is humiliating .	3.0
+en-D11609	Let me in , please , Mummy .	Please let me in , Mummy .	4.0
+en-D11616	Enola , just do as he says	_ Do what he says , Harry .	2.0
+en-D11640	I 'll let you in on a secret .	I 'm gonna tell you a little secret .	4.0
+en-D11650	We 're all that 's left .	We are the only ones left .	4.0
+en-D11665	Four , right ?	Um ... four ?	4.0
+en-D11667	Do you have anything you want to share with me ?	You got something to say to me ?	4.0
+en-D11668	Daniel Jackson .	There 's only one truth .	1.0
+en-D11680	It 's been a long night .	Late night last night .	2.0
+en-D11693	One way to find out , I guess , huh ?	There 's really only one way to find out .	3.5
+en-D11695	I was trying to keep you safe .	It was to protect you .	3.5
+en-D11699	Here comes the cavalry .	The cavalry 's coming .	4.0
+en-D11705	Are you interested in meeting him ?	You want to see him ?	4.0
+en-D11718	Go and look down into the street .	Honestly , no .	1.0
+en-D11723	Okay , you ready ?	You feeling ready for this ?	4.0
+en-D11727	That 's exactly what I 'm saying .	That 's what I 'm telling you .	4.0
+en-D11729	Stop this immediately .	You need to stop right now .	4.0
+en-D11742	He 's such a dear thing .	Oh , he 's so sweet .	4.0
+en-D11756	I 've looked all over .	I 've searched everywhere .	4.0
+en-D11758	He 's cornered .	We 've got him trapped .	2.5
+en-D11778	He 's an imbecile .	He ´ s a jackass .	4.0
+en-D11797	I 've got phone calls to make .	I got to make a phone call .	3.0
+en-D11803	I didn 't take anything .	I told you to stay away from the plane .	1.0
+en-D11821	Oh , that 's too bad .	That 's rather a shame .	4.0
+en-D11834	We 've only just begun .	We just started up .	4.0
+en-D11836	I 've never been happier .	I was never so happy in my life .	4.0
+en-D11837	He 'd like to have a word with you .	He wants to speak with you .	4.0
+en-D11843	Because I said so .	I tell you we won 't .	2.0
+en-D11849	It 's not gonna be necessary .	There will be no need .	4.0
+en-D11870	Fancy meeting you here .	I was just on my way , sir .	1.0
+en-D11878	I 'll handle it .	I 'm taking take care of it .	4.0
+en-D11898	No , not that I know of .	No , there 's no arrangement as far as I know .	3.0
+en-D11901	That was yesterday .	Well , it was a day ago now .	4.0
+en-D11922	I 'm good at making things .	I 'm very good at laundry .	1.5
+en-D11931	He forced my hand .	He made me do it .	3.5
+en-D11935	I struggle to believe you .	Sir , forgive me , but I find that very hard to believe .	3.0
+en-D11937	I didn 't mean nothing by it .	No offense meant .	3.0
+en-D11938	Hey , vulture .	I 've got certain rights .	1.0
+en-D11941	It was all a trap .	Those troops are decoys .	1.5
+en-D11977	Well , how do you like that ?	What do you think about that ?	4.0
+en-D11981	Enough lies .	No more deception .	4.0
+en-D11982	What that is in real money ?	_ How much is that ?	2.5
+en-D11996	What are your options ?	What choice do you have ?	4.0
+en-D12001	Didn 't say you were .	I never said you were a fool .	2.5
+en-D12002	Can I get you some coffee ?	Would you like a little coffee ?	4.0
+en-D12012	What you doing home from school ?	Why aren 't you at school ?	3.5
+en-D12015	Well , you should get some sleep .	You should be sleeping .	3.5
+en-D12016	They didn 't say .	They never said what .	2.5
+en-D12033	I mean , we 're human beings .	We 've seen Cylons in uniform before .	1.0
+en-D12048	Go and get her	I will wet myself because Lady Godiva wanted to swim .	1.0
+en-D12057	But that 's not what happened .	Not quite how it worked out , though .	3.5
+en-D12066	He 's unbelievable .	The guy 's awesome .	3.5
+en-D12081	I 'm trying to understand .	We 're trying to work it out .	2.0
+en-D12088	Hundred percent .	It 's a dead certainty .	3.5
+en-D12114	Billy , what are you trying to do ?	Stick to the plan .	1.5
+en-D12124	I 've got no complaints .	Well , you know , can 't complain .	3.0
+en-D12131	Isn 't it hilarious	That 's not bad .	1.5
+en-D12132	Hey , is everything OK ?	Is everything all right ?	4.0
+en-D12140	What 's wrong , mom ?	What , mom , is there ?	2.5
+en-D12165	Don 't tell me what .	Look , why don 't we just sit down ?	1.0
+en-D12169	So , what do we do ?	What is one going to make ?	2.0
+en-D12191	I think I 'm just going to go .	I think I should go now .	3.5
+en-D12192	I know , it 's incredible , isn 't it ?	It 's unbelievable , right ?	4.0
+en-D12195	Hey , man , have some respect .	How about showing some respect ?	3.0
+en-D12198	Been looking all over for ye .	I searched everywhere for you .	3.0
+en-D12207	Again , again .	Further , further .	2.5
+en-D12231	I 'll see you when I get home .	Well , thanks for calling .	1.0
+en-D12235	Neither does she .	She doesn 't either .	4.0
+en-D12237	It 's not what you did wrong ;	What have I done wrong ?	1.5
+en-D12241	Call for help .	Is there someone you can call ?	2.0
+en-D12243	Right , that does it .	Yeah , that 's that .	4.0
+en-D12256	Are you mad ?	This is insanity .	2.5
+en-D12271	I 'll take the father and you take the son .	You should see this .	1.0
+en-D12283	That 's unlikely .	That is improbable .	4.0
+en-D12286	No , you 're not hearing me .	No , you-you , but you 're not listening to me .	4.0
+en-D12289	I 've got a great idea .	I have a lovely idea .	4.0
+en-D12293	I have found her .	I tracked her down .	4.0
+en-D12297	Get in the fucking car .	Get the f-- - in the car .	4.0
+en-D12310	Check , check , check .	Testing , testing .	4.0
+en-D12313	You two belong together .	You were always meant to be .	3.0
+en-D12315	Keep your eyes on him .	You keep him secure .	3.0
+en-D12323	Is this your place of residence , miss ?	You folks live here ?	2.5
+en-D12327	I SHOULDN 'T THINK HE FELT A THING .	Is he hurt ?	2.0
+en-D12332	Shall I go on ?	should I keep going ?	4.0
+en-D12333	Let 's get out of this place .	We should get out of here .	4.0
+en-D12368	Hasn 't let me down yet .	Oh , nice car .	1.0
+en-D12376	Now , where are the rest of you ?	Where is everybody ?	3.0
+en-D12383	Do you want to grab a bite ?	Hey , you want something to eat ?	4.0
+en-D12387	You 'll get yourself killed .	You 're going to kill yourself .	4.0
+en-D12421	Fight it , Jesse .	Jesse , fight him .	2.5
+en-D12423	Um , it 's a woman .	Who 's this calling in the	1.0
+en-D12425	This conversation 's over .	We 're done talking about this for now .	4.0
+en-D12426	Make your own decisions .	That 's for you to decide .	4.0
+en-D12445	Can you give us some help down here ?	Can you help our case ?	3.0
+en-D12446	Oh , you 're safe .	You 're all right .	3.5
+en-D12449	I don 't have the energy .	I have no strength .	3.0
+en-D12476	Is this what you want from me ?	This is what you 're asking for ?	3.0
+en-D12496	Our job 's to bring him in and close the case .	We have to find him .	3.0
+en-D12498	Language , dear .	~ And , please , don 't swear .	3.5
+en-D12500	I 'm not gonna argue with you , Ari .	Will , I don 't wanna have a fight .	2.5
+en-D12503	I have kids .	Yes , well , I 'm a mother .	3.0
+en-D12507	Doesn 't hurt .	SORRY , I GUESS I 'M JUST NERVOUS .	1.0
+en-D12508	Can 't help that now .	It can 't be helped .	3.5
+en-D12509	But look , this is fate , right ?	It 's destiny .	3.0
+en-D12519	I 'm doing my job .	Just doing what I do .	3.5
+en-D12522	I actually don 't know .	I do not actually know .	4.0
+en-D12525	Got what he had coming .	He got what he deserved .	4.0
+en-D12536	I would love to see it .	Oh , kind of want to see that .	3.0
+en-D12538	It does not laugh any more .	She 's not moving .	1.0
+en-D12541	Don 't be a smartass .	Now you 're being smart .	3.5
+en-D12545	What else did she say ?	What were her others ?	2.5
+en-D12547	How much do you got there ?	Well , how much you got ?	3.5
+en-D12548	He needs a doctor .	Tommy , Tommy , Tommy .	1.0
+en-D12557	Give it to me .	I can eat by myself , brother .	1.0
+en-D12562	Good afternoon , doctor .	How do you do , doctor .	3.5
+en-D12568	I can 't risk arrest .	I can 't take that chance .	2.5
+en-D12575	Okay , new plan .	The deal 's changed .	3.5
+en-D12576	I 'm very good at that .	It 's what I 'm good at .	4.0
+en-D12600	Answer me honestly .	Be honest with your answers .	3.5
+en-D12608	Police are on their way .	The police is coming	4.0
+en-D12632	You 've got no business to come here .	You have no business here .	4.0
+en-D12638	I didn 't mean to disturb you .	I wasn 't planning on bothering you .	3.5
+en-D12667	They 're professionals .	They know what they 're doing .	3.0
+en-D12676	How does that concern me ?	What 's this got to do with me ?	4.0
+en-D12680	Give it a thought .	Just think about it .	4.0
+en-D12687	I can 't feel my legs .	Somebody stole my legs .	2.5
+en-D12690	Better than I 've ever seen you .	Hey , never better .	2.5
+en-D12710	Don 't play stupid .	Stop playing dumb with us .	3.5
+en-D12721	Well , she didn 't die .	~ She was murdered .	2.0
+en-D12724	That could be anybody .	Well , they could be just about anybody .	3.0
+en-D12739	And that doesn 't make us even .	You shot me .	1.0
+en-D12763	How 'd they find us ?	How did they , like , find us ?	3.5
+en-D12767	Want to game it up ?	You want to play games ?	3.5
+en-D12770	A half year ?	Six months ?	4.0
+en-D12797	Hey , wait a minute .	Uh , there , hang on here , just one second .	3.5
+en-D12803	I just want my life back .	That 's all .	1.0
+en-D12804	I 'm not kidding .	I mean that serious .	3.5
+en-D12807	Just let me know what you want .	Just tell me what you need .	3.5
+en-D12838	Rhetorical question .	That was rhetorical .	3.5
+en-D12842	I will remember it .	Okay , I 'll keep that in mind .	3.5
+en-D12850	Need a hand with that ?	You need another pair of hands ?	4.0
+en-D12858	Oh , it 's hopeless .	There 's no hope .	3.5
+en-D12864	Do you see the difference ?	Notice anything ?	2.5
+en-D12867	I 've eaten already .	Oh , I already ate .	3.5
+en-D12881	They got you , Turtle .	You 're a bum .	1.0
+en-D12884	So I 've been told .	Yes , I 've gathered that .	2.5
+en-D12885	Paul , I 'm not leaving without you .	You know I won 't leave without you .	3.0
+en-D12888	James , we shouldn 't be here .	We shouldn 't be in this situation .	3.0
+en-D12897	I 'm not leaving here without you .	I 'm not walking out that door without you .	4.0
+en-D12900	I ain 't through .	I am not finished .	3.5
+en-D12907	Get on the motherfucking ground .	Now , get on the floor .	3.0
+en-D12925	Is this some sort of joke ?	What 's this , a joke ?	4.0
+en-D12929	Hey , what 's up , fellas ?	How are you guys ?	4.0
+en-D12932	Because they ain 't here .	But it 's empty .	1.5
+en-D12934	Is there a point here ?	What 's the point ?	3.0
+en-D12955	It 's hot out here .	It 's just a little warm in here .	2.5
+en-D12958	I don 't think so , sir .	I suspect not , sir .	3.5
+en-D12959	He used to be all right , that guy .	He was a good guy .	4.0
+en-D12971	I 'm actually dating someone .	I have a boyfriend .	3.0
+en-D12980	I can 't believe it 's a coincidence .	Well , that can 't be a coincidence .	3.5
+en-D12996	WELCOME TO THE FAMILY .	Welcome to family .	4.0
+en-D12997	Wanna fight , punk ?	You wanna squab ?	3.5
+en-D13008	I have no choice but to .	I have no other option .	4.0
+en-D13010	Hang on , buddy .	Just hang in there , pal .	4.0
+en-D13011	Did you two talk ?	Have you finished talking ?	2.0
+en-D13020	I wasn 't scared .	Well , I don 't .	1.5
+en-D13021	Wh-Why 'd you ask me that ?	Why are you asking me about this ?	3.5
+en-D13033	I 've been trying to tell you .	I meant to tell you that .	3.5
+en-D13047	Banged up , but I 'll live .	I think I 'll survive .	3.5
+en-D13050	Me neither .	l didn 't know .	1.5
+en-D13053	Thank you for sharing .	Thanks for lettin ' me know .	3.5
+en-D13075	Just take deeper breaths .	That depends on where I start .	1.0
+en-D13077	Do you know who that was ?	You know who the fuck that was back there ?	3.0
+en-D13092	Man , she likes you .	She 's already into you .	3.5
+en-D13115	We 'll talk tomorrow .	Well , let 's talk in the morning .	3.0
+en-D13123	You did a very good job .	You did good work back there .	3.0
+en-D13125	It 's the only solution .	No , I really want the divorce .	1.0
+en-D13126	She 's gonna be all right ?	She going to be okay ?	4.0
+en-D13131	We 're here to help you .	What the fuck do I need your help for ?	1.5
+en-D13134	Door 's on the wall .	There 's the door .	3.5
+en-D13137	What am I going to do ?	What am I supposed to be doing ?	3.5
+en-D13140	Oh , honey .	Um , darling .	3.5
+en-D13142	I 'm gonna go through with the wedding .	I 'm gonna marry homegirl .	2.0
+en-D13144	Oh , I don 't know you .	We haven 't met .	3.5
+en-D13147	Maybe there 's something I can do to help .	Well , maybe I can help .	4.0
+en-D13156	All is prepared .	All the necessary preparations are made .	3.5
+en-D13160	So , can I give you a piece of advice ?	You want some advice ?	3.0
+en-D13163	Where 's everyone else ?	Where 's the rest of study group ?	3.0
+en-D13167	What are you suggesting ?	What exactly do you mean by that ?	3.5
+en-D13174	Hey , I 'll meet you outside .	I 'm gonna go wait outside .	3.5
+en-D13192	Go piss up a rope .	Screw off , will you ?	4.0
+en-D13234	You crossed a line , man .	You went too far .	3.5
+en-D13239	Busy , busy , busy .	Work , work , work .	3.0
+en-D13242	And how do you feel about him ?	What do you think of him ?	4.0
+en-D13261	It 'll be okay .	Oh , no , you 're gonna do great .	3.0
+en-D13264	I wish I could believe it .	I wish that was true .	4.0
+en-D13268	I could neither leave nor stay .	What are they talking about ?	1.0
+en-D13270	Hey , I was trying to let you sleep .	I didn 't want to wake you .	3.5
+en-D13278	Does that work for you , Mrs. Underwood ?	Is that okay with you ?	3.5
+en-D13280	Anyone , anyone at all .	Terrific answer .	1.0
+en-D13288	Flick the switch .	Press the button .	3.5
+en-D13302	Nobody picks up or calls out .	There 's no answer .	3.5
+en-D13308	Jonathan , you 're not going leave me out here .	YOU CAN 'T LEAVE ME HERE .	3.5
+en-D13309	I 've made arrangements .	You 'll be safe here .	1.0
+en-D13310	I 'm sort of counting on that .	Oh , I 'm counting on it .	3.5
+en-D13312	I don 't like the sound of that .	Whatever that is doesn 't sound good .	4.0
+en-D13324	Andy , I 'm so frightened .	Neets , I 'm so scared .	3.5
+en-D13327	He 's fighting hurt .	Look , he 's injured .	2.5
+en-D13343	Hey , hey , it 's okay .	Hey , it 's all right .	4.0
+en-D13350	And the children ?	Your kids , they 're good ?	3.5
+en-D13359	It 's so frightening .	It 's very scary .	4.0
+en-D13364	Ow , you bastard .	You son of a bitch .	4.0
+en-D13373	No , look at it .	What you all see ?	2.5
+en-D13391	Hey , I 'm concerned about you .	I just get scared for you , Mom .	3.0
+en-D13397	On the fucking table .	You fuckin ' had it .	1.0
+en-D13398	Oh , here he comes .	Where 's Amanda ?	1.0
+en-D13401	May I ask what you 're planning ?	What do you mean to do ?	4.0
+en-D13426	Just dig into it , man .	Yeah , you should tell him that .	1.0
+en-D13431	I can 't run that risk .	I can 't take the chance .	4.0
+en-D13435	AT THE TONE LEAVE A MESSAGE .	Please leave a message after the tone .	4.0
+en-D13436	Are you gay , dude ?	You mean you 're gay ?	3.5
+en-D13448	Sir , very good .	Very happy , sir .	2.5
+en-D13458	This court is dismissed .	We 're adjourned .	3.0
+en-D13459	That 's your decision .	Uh , that is up to you .	4.0
+en-D13469	I looked at your file .	I read your report .	3.0
+en-D13470	God , I 'm gonna miss you .	I 'll miss you , brother .	3.5
+en-D13472	Boys , take a break .	Take five , guys .	3.5
+en-D13497	Hey , can you hush ?	Lower your voice .	3.5
+en-D13500	LOUIS , LOUIS .	Please don 't .	1.0
+en-D13503	Thank you for your hospitality .	We appreciate you having us .	3.5
+en-D13504	I 've got something to say .	I just need to say something .	4.0
+en-D13507	Got about 10 grand in his chip stack on the table in front of him .	Sounds promising .	1.0
+en-D13520	And that 's your plan ?	That 's the whole plan ?	3.0
+en-D13523	I 'm not a fag .	You know I ain 't queer .	3.0
+en-D13524	We 've been over this , okay .	We have had this conversation .	4.0
+en-D13525	I 'm not getting a pulse .	I 've got no pulse .	4.0
+en-D13531	Hold , hold , hold , hold , hold , hold .	Wait , wait , wait .	4.0
+en-D13546	You don 't fucking remember that .	You really don 't remember this ?	3.0
+en-D13554	Did you ever think of that ?	You ever thought about that , hmm ?	4.0
+en-D13566	They 're ready for takeoff .	We are go for launch .	2.0
+en-D13567	I crossed a line .	I have gone too far .	4.0
+en-D13572	Do please sit down .	Mr. Cheng , please , take a seat .	3.0
+en-D13577	What are you seeking ?	should there be ?	1.0
+en-D13586	And you neither .	Nor is it yours .	2.0
+en-D13594	Come , Sweetie .	Let 's roll , baby .	3.5
+en-D13598	My pleasure , sir .	Oh , you 're welcome .	3.0
+en-D13602	It explains everything .	Yeah , that explains it .	3.0
+en-D13618	I don 't think now 's an appropriate time .	This is not a good time , okay ?	4.0
+en-D13620	It 's not worth it for me .	It can 't be worth all this .	2.5
+en-D13640	Look , there 's no way we can cover the overhead .	We can 't afford it .	3.0
+en-D13663	And how 'd you guys meet ?	How did the three of you meet ?	3.0
+en-D13688	All right , freeze .	Stop moving .	4.0
+en-D13696	There 's no such word .	Well , nothing is impossible .	1.5
+en-D13700	Shall I come with ?	You want me to come along ?	3.5
+en-D13706	No-one 's interested .	Nobody gives a shit .	3.0
+en-D13710	It 's nice , right ?	lsn 't it pretty ?	3.5
+en-D13712	I don 't find those funny .	I don 't think that 's very funny .	3.5
+en-D13715	Hey , Julie .	News says 24 hours .	1.0
+en-D13727	Come help me out .	Give me a hand .	4.0
+en-D13732	It 's going to be all right .	Look , it 's gonna be okay .	4.0
+en-D13734	It 's turning me into a crazy person .	It drives me nuts .	4.0
+en-D13736	I feel so tired , man .	Yeah , I 'm just so tired .	3.5
+en-D13751	But , no , it 's OK .	But that 's okay , I mean ,	3.0
+en-D13781	Is it my go ?	Open the door .	1.0
+en-D13791	And the baby ?	He came through to .	1.0
+en-D13806	Do I have everyone 's attention ?	Squad , if I could have your attention please ?	3.0
+en-D13810	It 's easy for you to say .	You can afford to say that .	3.5
+en-D13811	Are we really doing this ?	We 're really gonna do this .	2.5
+en-D13822	What 's happening over here ?	What is going on here ?	4.0
+en-D13855	How many fingers am I holding up ?	How many fingers do you see here ?	4.0
+en-D13859	That can 't be a coincidence .	You 're starting to state the obvious .	1.0
+en-D13874	It 's not what I 'm asking .	It was not my question .	4.0
+en-D13882	Were you aware of that ?	Yeah , did you know she was coming ?	3.0
+en-D13893	Perhaps I can help you .	Well , maybe I can be of assistance .	3.0
+en-D13910	That 's a thing .	We 're together .	1.0
+en-D13912	Be a goddamn man .	Shake it off , huh ?	3.0
+en-D13928	Did he tell you he killed Darryl ?	~ He tell you that , did he ?	2.5
+en-D13929	Come get me .	Need a pickup .	3.0
+en-D13937	Will he be all right ?	Will it get better ?	3.0
+en-D13961	Oh , that 's enough .	That 's quite enough .	4.0
+en-D13985	Hope I 'm not interrupting anything .	I hope I 'm not a distraction .	3.5
+en-D13988	And that was no easy task .	Well , it wasn 't easy .	3.0
+en-D13999	Going to the bathroom .	I 'm gonna hit the ladies ' .	3.5
+en-D14004	Aren 't you afraid ?	Don 't you get scared ?	4.0
+en-D14014	Talk about procedure .	That doesn 't count .	1.0
+en-D14015	Nothing , if you are held .	What are you gonna do to me ?	1.0
+en-D14025	Don 't you have to get that ?	You gonna answer that ?	3.0
+en-D14043	How much time we got ?	Well , how long does he have ?	2.0
+en-D14057	Quick to the ball .	Right behind him .	2.5
+en-D14060	There are no bond certificates .	There are no guns and money .	1.5
+en-D14074	Yeah , all of them .	Yes , everything .	3.0
+en-D14076	Uh , that is not my business .	Um , I have no business asking that question .	3.0
+en-D14087	Hey , we gotta keep going .	We 've got to move along .	4.0
+en-D14088	Hello Mustafa .	I understand it now .	1.0
+en-D14093	Now , what am I gonna go and do that for ?	Now , why would I wanna do a thing like that ?	4.0
+en-D14098	I 'm not angry .	No hard feelings .	3.5
+en-D14110	You got it backwards .	you have got the wrong idea .	4.0
+en-D14111	Let 's get down to it .	So then let 's cut to the chase .	4.0
+en-D14112	I 'll cover for you , okay ?	I 'll handle everything .	2.5
+en-D14128	He went to sleep .	I would be surprised .	1.0
+en-D14145	All I ever tried to do was keep you safe .	I was only trying to protect you .	4.0
+en-D14165	Are you still here ?	You still around here , nigger ?	3.0
+en-D14166	Anyways , good night .	In any case .	2.0
+en-D14169	We got a mission .	We have an assignment .	4.0
+en-D14172	One it 's not up to you .	That 's not for you to decide .	4.0
+en-D14182	Dude , where are we ?	What is this place ?	3.0
+en-D14183	Yeah , you 'd better .	You better come back .	3.0
+en-D14187	I 'm sorry about all this .	I 'm sorry for the whole damn mess .	3.5
+en-D14203	That concludes the meeting .	This meeting is over .	3.5
+en-D14212	You shouldn 't talk like this .	Your grand aunt is a bit cracked , my child .	1.0
+en-D14223	I feel bad for Kimberly .	I feel sorry for her .	3.0
+en-D14233	OK , take a deep breath , please .	Take a nice , slow breath .	3.5
+en-D14251	Now you know what ?	You know something ?	3.0
+en-D14260	How did he get dead ?	So , how did he die ?	3.5
+en-D14263	I 'm not feeling it .	I can 't smell it .	2.0
+en-D14270	Is that clear , mister ?	Is that understood ?	3.0
+en-D14274	You 're the devil .	You get away from me .	1.5
+en-D14280	Let 's go home now .	Now we 're going home .	3.5
+en-D14282	I 've got an ace up my sleeve .	You know where I 'll be .	1.0
+en-D14288	I got to grab this call , Jerry .	Oh , I should take this .	2.5
+en-D14292	I am a winner .	Say it like you mean it , you little Judy .	1.0
+en-D14310	All grown up .	You 've gotten big .	3.0
+en-D14313	Yeah , you mentioned that .	Yes , I heard you say that earlier .	3.5
+en-D14317	Oh , you 're not gonna believe this .	You 'll hardly believe it .	3.0
+en-D14334	Well , why didn 't you say so ?	You should 've just said that .	3.5
+en-D14338	She didn 't tell you ?	She really never told you ?	4.0
+en-D14350	I was on my way out , anyway .	Um , I was just leaving .	3.5
+en-D14364	We have to find her .	We need to locate her .	4.0
+en-D14373	You have any idea who she is ?	You know who that is ?	3.0
+en-D14388	Everyone know this .	It 's common knowledge .	3.5
+en-D14391	I 've got this theory .	Well , I have a theory .	3.5
+en-D14400	I 'm going insane .	Well , I 'm crazed .	3.5
+en-D14406	Can I say something ?	May I interject ?	3.5
+en-D14407	Between now and then .	In the meantime .	4.0
+en-D14409	Explain it to me .	You need to explain .	3.5
+en-D14416	Thank you for speaking with us .	Well , thank you for your time , sir .	3.0
+en-D14429	I return before too long .	I will be back soon .	3.5
+en-D14435	Good talk , James .	It was nice talking to you , Angela .	2.0
+en-D14439	She 's not feeling well .	She doesn 't feel too well .	4.0
+en-D14449	It 's like , uh .	It 's totally like .	3.0
+en-D14460	I 'm not gonna tell anyone .	I would not tell a soul .	4.0
+en-D14462	I mean , that 's somethin ' .	It really is something .	3.0
+en-D14463	He 's such a dick .	What a fucking asshole .	3.5
+en-D14466	Do you disagree ?	You feel different about it ?	3.5
+en-D14472	Our condolences on your loss .	You have our condolences .	4.0
+en-D14475	Like a camel 's grudge .	Look , who is talking .	1.0
+en-D14491	Hey ... there is nothing you can 't tell me .	You can tell me anything .	4.0
+en-D14500	It 's not that hard .	That ain 't so hard .	3.5
+en-D14502	Is this your car ?	This car one of yours ?	3.5
+en-D14505	Good night , Mama .	Mommy , goodnight .	4.0
+en-D14520	What are you taking ?	You 'll take what ?	4.0
+en-D14533	Then it 's your choice .	Whatever you say .	3.0
+en-D14543	It 's beautiful .	Oh. lt 's lovely .	4.0
+en-D14549	Look , Adam , you don 't worry ' bout nothin ' .	We are a team .	1.0
+en-D14570	Good , thank you .	I 'm so glad .	2.0
+en-D14572	We 're engaged .	You have to wear it .	1.0
+en-D14574	Dude , that could work .	That actually might work .	3.5
+en-D14576	It doesn 't look like that to me .	That does not seem normal .	2.5
+en-D14594	I was working too much .	That 's too many .	1.0
+en-D14604	It wouldn 't be a good idea right now .	This is a bad time .	4.0
+en-D14610	OK , I 'm on my way .	They 're going to kill him .	1.0
+en-D14616	How 'd you come up with this ?	What brought you to that ?	3.0
+en-D14623	That 'll do that .	You were there ?	1.0
+en-D14626	You know how to reach me .	~ Well , you know where I am .	3.5
+en-D14627	When did you last see him ?	When was the last time you saw each other ?	3.0
+en-D14635	Do you trust him ?	You have faith in him ?	4.0
+en-D14636	Accelerate to full .	Full speed ahead .	4.0
+en-D14655	I don 't know .	train passing overhead	1.0
+en-D14658	Threats have been made .	You 're in danger , you know that .	2.0
+en-D14659	There 's really no need to explain .	You don 't have to explain yourself , doctor .	3.0
+en-D14660	Shut off that engine .	Turn the motor off .	4.0
+en-D14663	Not here to make friends .	That 's not why I 'm here .	2.5
+en-D14664	No , I 'm staying here .	No , I think I 'll just stay here .	4.0
+en-D14670	I might be able to help you .	Well , maybe I can help you with that .	3.5
+en-D14672	I did not intend to .	I wasn 't gonna .	3.0
+en-D14692	Afraid we 've done all we can .	We did everything we could .	3.0
+en-D14696	Well , that was easy .	Well , you did that very easily .	2.5
+en-D14707	Jared hooked it up .	There is no problem .	1.0
+en-D14722	Am I not allowed to make a mistake ?	Why shouldn 't I ?	2.0
+en-D14734	I do not have anything to prove .	Want to give it a go ?	1.0
+en-D14737	I 'm freezing , doc .	I 'm really cold .	3.0
+en-D14754	Is there something on your mind ?	Somethin ' bothering ' you ?	2.5
+en-D14755	I need some information .	I need you to get intel .	3.0
+en-D14758	Certainly that seems unimportant .	Who I am doesn 't matter .	1.5
+en-D14805	Have a blast , Andy boy .	Knock yourself out .	2.0
+en-D14835	It 's not as simple as that .	Look , it 's not that simple .	4.0
+en-D14855	That 's amazing .	This is incredible news .	2.5
+en-D14856	We have a little problem .	We have a small complication .	3.5
+en-D14857	Th-Thirty seconds .	We need a lead .	1.0
+en-D14875	Goddamn shame .	It 's such a pity .	3.5
+en-D14879	Aren 't you curious ?	Gotta do my laundry .	1.0
+en-D14885	But I know about him .	I 've heard of him .	2.5
+en-D14898	And that 's what matters .	That 's all that 's important .	3.5
+en-D14935	Get the car .	You a SC fan now , ain 't you ?	1.0
+en-D14947	I 'm gonna do everything I can .	I will give my best effort .	3.5
+en-D14949	Are you from the police ?	Hey , are you police ?	3.5
+en-D14952	I don 't have that problem .	Neither do I.	1.5
+en-D14957	It was ... it was awful .	It was a terrible thing .	3.0
+en-D14977	There 's nothing wrong with you .	You 're not sick .	2.5
+en-D14993	And if you think I won 't ,	What , you don 't believe me ?	1.0
+en-D14999	Tell me honestly .	Were you frightened ?	1.5
+en-D15008	Are results accurate ?	You sure about that ?	2.0
+en-D15011	Keep going .	So continue .	4.0
+en-D15013	How much farther ?	Is it again far ?	2.5
+en-D15018	Not that either .	Or medicine or anything .	1.5
+en-D15022	I had to leave .	It was time to go .	3.5
+en-D15031	We must press on .	We need to keep going , Matt .	3.0
+en-D15052	Does it remind you of anything ?	Mm , ring any bells ?	2.5
+en-D15061	How do I know it ?	Who can tell ?	2.0
+en-D15081	Are you spying on me ?	What are you , stalking me ?	3.5
+en-D15093	10 or 12 times a day .	That 's embarrassing .	1.0
+en-D15106	Got it covered .	I 'm taking care of it .	2.5
+en-D15109	I hope to Christ you do .	I sure as hell hope so .	3.0
+en-D15119	The only reason you 're still alive is because ... I 've allowed you to .	You should be thanking me .	1.0
+en-D15122	Just get on board , Terry .	Oh , my God , Gina , hi .	1.0
+en-D15124	Honey , pack up the kids , drive them .	Lightweight .	1.0
+en-D15131	Aren 't you happy to see them ?	So you 're not happy ?	2.0
+en-D15155	Do you think that 's true ?	You think this is for real ?	3.5
+en-D15165	All right , what can I do for you ?	So what can I do for miss Lang this afternoon ?	2.5
+en-D15168	This is far from over .	This isn 't done by a long shot .	3.5
+en-D15175	He went to town .	Where 's Richard ?	1.0
+en-D15179	BANGING ON DOOR	Please open that door .	2.0
+en-D15184	Positivity , Drama .	Think positive .	2.0
+en-D15185	Please , make yourself comfortable .	Um , come , make yourselves at home .	2.5
+en-D15189	By something impossible .	Run , barry , run .	1.0
+en-D15196	Hard to know , dear .	I don 't know , honey .	3.5
+en-D15203	Don 't worry about him .	Oh , do not concern yourself about him .	3.5
+en-D15204	10 seconds .	NEUROSURGEON 2 :	1.0
+en-D15205	The poor man can 't help it .	Well , it 's not his fault .	2.0
+en-D15219	Check this out .	Yo , peep that .	3.0
+en-D15220	So , where did you run to ?	Where did you go last night ?	2.5
+en-D15231	Hey , this is my car .	That 's the car l own .	2.0
+en-D15233	Oh , how very vexing .	What a nuisance .	3.0
+en-D15240	Don 't listen , okay ?	Don 't pay her any mind .	2.5
+en-D15292	I can remember all of it .	I remember everything .	4.0
+en-D15308	Check our act ?	Would you care to see ?	2.5
+en-D15321	One sec , I got this .	We are here to help .	1.0
+en-D15326	And it isn 't at all necessary .	It 's not required .	3.0
+en-D15338	I 'm not gonna tell you .	I ain 't telling you anything .	3.5
+en-D15349	Just so you know .	You know , for the record .	2.5
+en-D15350	Just gotta be cool .	You just stay cool .	3.5
+en-D15359	I just wanna know .	Spence , don 't develop a complex about it , okay ?	1.0
+en-D15361	I gotta go talk to him .	Then I have to speak to him .	4.0
+en-D15367	I ain 't packing nothing , see ?	I don 't have a gun .	3.0
+en-D15370	Eyes open , everybody .	Keep your eyes out .	3.5
+en-D15371	Don 't mean to inconvenience you .	Uh , didn 't mean to interrupt .	2.5
+en-D15375	And do you have any siblings ?	Do you have any brothers or sisters ?	4.0
+en-D15379	I don 't know what I 'm doing .	Maybe we should , you know , make some rules , I mean .	1.0
+en-D15381	I 'll make sure of that .	I 'm gonna see to it .	3.5
+en-D15396	Thank you for your help , Kira .	Thanks for helping me with this .	3.0
+en-D15405	Don 't you see what 's going on here ?	Okay , don 't you get it ?	2.5
+en-D15422	Dickie , happy thanksgiving .	Madame president .	1.0
+en-D15424	So let your father help you .	You 're tired .	1.0
+en-D15426	Understand ?	You got that , you two ?	3.0
+en-D15427	If we don 't find Marwan .	We 're going to find him .	2.0
+en-D15430	They sound horrible .	You get used to it .	1.0
+en-D15437	You need to contain yourself .	You need to pull it together .	3.0
+en-D15440	Any word yet ?	Hear from him ?	3.0
+en-D15445	I 've heard about you .	Perry Van Shrike .	1.0
+en-D15451	And you 're sure it 'll work ?	You sure this is gonna work ?	3.5
+en-D15453	Right from the jump ,	Since the beginning .	3.0
+en-D15461	Look , I 'm telling you , you ... you 're different .	You 've changed , man .	3.0
+en-D15463	I became sick with worry .	I was so scared .	3.0
+en-D15465	Don 't exceed three per day .	No , more than that .	2.0
+en-D15466	Spill it , or I 'll get rough .	You 've seen things .	1.0
+en-D15474	No , nothing I can remember .	Not that I recall .	3.0
+en-D15479	Don 't mind him , man .	Don 't pay any attention to him .	4.0
+en-D15483	Everybody , take cover .	Everyone run for cover .	4.0
+en-D15496	She 'd like to speak to you .	She wants to talk to you .	4.0
+en-D15505	I gotta go to the men 's .	Just to the bathroom .	2.5
+en-D15518	Hands behind your head .	Lock your fingers behind .	2.5
+en-D15522	I do not find it so .	I don 't think he did .	2.5
+en-D15526	The victim wasn 't wearing them when he was killed .	What is it telling you ?	1.0
+en-D15537	Don 't tell anybody .	Just do not say anything	3.5
+en-D15556	Join the club , honey .	Welcome to the club .	2.5
+en-D15565	Hey you where 's your house ?	Where are you living ?	3.0
+en-D15577	I 'll call an ambulance .	I 'll call the paramedics .	4.0
+en-D15587	How 'd you guys meet ?	How did you two first meet ?	4.0
+en-D15595	Oh , that felt good .	This was nice .	3.0
+en-D15599	Does that make sense ?	Is there any point ?	2.5
+en-D15603	Hand it to me .	OKAY , JUST GIVE IT TO ME .	3.5
+en-D15605	Alan , don 't beat yourself up .	Don 't be too hard on yourself .	3.0
+en-D15613	It 's not what it looks like to me .	It doesn 't feel very standard .	2.0
+en-D15616	I want you to take her .	Take her with you .	3.0
+en-D15617	I 'm tired of hearing your bullshit .	That 's war .	1.0
+en-D15626	It was nice meeting you , Sydney .	Um , it was very nice meeting you .	3.0
+en-D15641	They 'll come back .	You 'll have them back .	3.0
+en-D15646	It 's one way of putting it .	Yeah , you can say that .	3.5
+en-D15657	Catch you next time .	Till next time , yeah ?	3.5
+en-D15668	There 's somebody coming .	Wa ... wait , something 's coming .	3.0
+en-D15692	Bet it smells good , man .	Oh , that smells nice .	3.0
+en-D15699	Living rough ?	Why do you want to know ?	1.0
+en-D15702	Because I didn 't have a choice .	Because I had no choice .	4.0
+en-D15709	And I slept .	I was sleeping , Daniela .	3.0
+en-D15710	Ain 't that upkeep enough ?	Well , isn 't that enough ?	3.0
+en-D15713	We 've done this before .	We already did that .	3.5
+en-D15718	I 'm expected somewhere .	They 're waiting for me .	3.0
+en-D15724	How about you ?	Nothing , Sir	1.0
+en-D15730	They 're closing in on us .	They 're getting close .	3.5
+en-D15744	Uh , where are your parents ?	Where 's your folks ?	4.0
+en-D15750	I have work to do .	Was the slug in the wall ?	1.0
+en-D15755	He 's non-responsive .	He does not answer .	4.0
+en-D15758	Do you have a light ?	Yo , man , you got a match ?	3.0
+en-D15770	No need to thank me .	There 's no " thank you " necessary .	4.0
+en-D15795	So it 's your fault .	l blame you for that part .	3.0
+en-D15803	I ain 't gonna lie , man .	Well , I 'm not gonna lie .	3.5
+en-D15804	Haven 't seen her .	I HAVEN 'T SEEN HER .	4.0
+en-D15814	Who 'd of thought it ?	Who would 've ever thought ?	3.5
+en-D15825	He wasn 't there .	Oh , he was out .	3.5
+en-D15835	Hang on , hang on .	Oh , wait , wait , wait , wait , wait .	3.0
+en-D15839	Do I know this man ?	Is it anyone I know ?	3.0
+en-D15840	Are you gonna help me or not ?	So will you assist me or not ?	4.0
+en-D15863	Drinks on the house .	Round for everybody .	3.5
+en-D15882	Everything will be allright .	It 'll be fine .	3.5
+en-D15887	I don 't trust you .	♪ I have hours ♪ Sam :	1.0
+en-D15889	I 'm not gonna leave you .	I won 't disappear on you .	3.5
+en-D15893	I ... just worry about you .	I am concerned about you .	4.0
+en-D15903	I 'm not doing this for the money .	This isn 't about money .	3.5
+en-D15906	Are you sure that 's necessary ?	Is that really necessary , John ?	3.0
+en-D15909	Good night , honey .	Night-night , sweetie .	4.0
+en-D15931	I 'm getting a little nauseous , man .	I can 't look at it .	2.0
+en-D15935	Charatan 's attorney :	I must object .	1.0
+en-D15946	Do what he says .	Just go , Russ .	2.5
+en-D15958	So what does that have to do with anything ?	What 's my appearance got to do with anything ?	3.0
+en-D15968	I did not hear it .	I didn 't catch that .	3.5
+en-D15974	And so shall I.	I 'm going , too .	3.0
+en-D15981	This is not up for debate .	This isn 't a dialogue .	3.5
+en-D15987	I have to get to work .	Yeah , well ... look , I gotta get back to work .	3.0
+en-D15999	Anything you say can and will be used	He was my friend .	1.0
+en-D16012	Follow him .	Yes , Governor .	1.0
+en-D16018	So , how does this work ?	So how 's this supposed to work ?	4.0
+en-D16025	Does that sound at all familiar ?	That sounds familiar , does it not ?	3.5
+en-D16026	It 's not like we can kill him twice .	We 've talked about it .	1.0
+en-D16040	Do you feel that , folks ?	You guys smell that ?	2.5
+en-D16050	I 've got things to do .	I got stuff I gotta tend to .	3.5
+en-D16060	SO HOW MUCH REAL HARM HAVE WE DONE ANYBODY ?	You understand ?	1.0
+en-D16067	So , what 's wrong with that ?	Where 's the harm in that ?	4.0
+en-D16098	I came as fast as I could .	I came over as quickly as I could .	4.0
+en-D16105	It 's just a nightmare .	She 's like a living nightmare .	2.0
+en-D16106	It was the most amazing thing I 'd ever seen .	Never seen anything like it .	3.5
+en-D16119	HEY , PROFESSOR .	Here 's the key .	1.0
+en-D16124	Come on , Harry , pull it together .	Gather yourself .	3.0
+en-D16136	And that is my point .	That is exactly what I mean .	4.0
+en-D16150	You do not have to worry .	You don 't have anything to worry about .	4.0
+en-D16151	What do you say ?	You mustn 't , my lord .	1.0
+en-D16171	Meaning no disrespect , of course .	With all due respect .	3.0
+en-D16177	I 'm so glad you said that .	That 's good to hear , man .	3.5
+en-D16182	He 's a criminal .	What do you mean , a meeting ?	1.0
+en-D16185	George , Franck , dinner .	The food is ready .	2.5
