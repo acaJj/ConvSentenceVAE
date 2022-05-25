@@ -1,4 +1,9 @@
-# Sentence Variational Autoencoder
+# Convolutional Sentence Variational Autoencoder
+
+An implementation in PyTorch of a VAE for generating random sentences done as a thesis for the Mobile Computing program at Sheridan College.
+Uses a previous implementation created by Tim Baumgartner as a base. 
+
+The readme for his repo is shown below:
 
 PyTorch re-implementation of [_Generating Sentences from a Continuous Space_](https://arxiv.org/abs/1511.06349) by Bowman et al. 2015.
 ![Model Architecture](https://github.com/timbmg/Sentence-VAE/blob/master/figs/model.png "Model Architecture")
